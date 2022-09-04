@@ -15,5 +15,5 @@ initial_WHITE: 0.0
 ```
 
 {% hint style="info" %}
-Select the #color\_order
+_Select the **#color\_order**_
 {% endhint %}
