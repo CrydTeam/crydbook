@@ -1,6 +1,8 @@
 # BlTouch
 
-#### **__Bltouch Sektion in printer.cfg einfügen__**
+### **Bltouch Sektion in printer.cfg einfügen**
+
+> _****_[_**Link zur Config**_](https://github.com/cryd-s/Vyper\_extended/blob/main/1\_extended\_board/stealthburner%20toolhead/printer\_stealthburner.cfg)_****_
 
 {% code lineNumbers="true" %}
 ```json
@@ -21,5 +23,5 @@ speed: 15
 {% endcode %}
 
 {% hint style="info" %}
-_\_\_Select\_\_  your **#sensor\_pin** and **#control\_pin**_
+_\_\_Select\_\_ your **#sensor\_pin** and **#control\_pin**_
 {% endhint %}

@@ -2,11 +2,11 @@
 
 * [Anycubic Vyper](README.md)
   * [Stealthburner Mod](anycubic-vyper/stealthburner-mod/README.md)
-    * [Bauteil Zusammenbau](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/README.md)
+    * [Zusammenbau](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/README.md)
       * [Benötigte Druckteile](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/benoetigte-druckteile.md)
       * [Heat Inserts](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/heat-inserts.md)
-      * [Radial-Lüfter](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/radial-luefter.md)
       * [Neopixel](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/neopixel.md)
+      * [Radial-Lüfter](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/radial-luefter.md)
       * [Hotend Lüfter](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/hotend-luefter.md)
       * [Bauteile zusammenfügen](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/bauteile-zusammenfuegen.md)
       * [Stecker Crimpen](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/stecker-crimpen.md)
