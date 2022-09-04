@@ -1,6 +1,6 @@
 # BlTouch
 
-#### Config einbinden
+* #### 1. Config einbinden <a href="#bltouch" id="bltouch"></a>
 
 {% code lineNumbers="true" %}
 ```html
@@ -20,3 +20,4 @@ speed: 15
 ```
 {% endcode %}
 
+*
