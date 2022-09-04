@@ -17,6 +17,6 @@ _Die Orginale Anleitung ist hier zu finden:_\
 
  
 
-<figure><img src="../../../.gitbook/assets/fan4.jpg" alt=""><figcaption><p>Einsetzten und Verschrauben</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/fan4 (1).jpg" alt=""><figcaption><p>Einsetzten und Verschrauben</p></figcaption></figure>
 
 </div>

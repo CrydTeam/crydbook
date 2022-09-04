@@ -5,6 +5,7 @@
     * [Zusammenbau](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/README.md)
       * [Benötigte Druckteile](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/benoetigte-druckteile.md)
       * [Heat Inserts](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/heat-inserts.md)
+      * [Hotend](readme/stealthburner-mod/bauteil-zusammenbau/hotend.md)
       * [Neopixel](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/neopixel.md)
       * [Radial-Lüfter](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/radial-luefter.md)
       * [Hotend Lüfter](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/hotend-luefter.md)
