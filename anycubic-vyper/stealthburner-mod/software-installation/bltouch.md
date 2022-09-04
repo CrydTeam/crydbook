@@ -1,9 +1,9 @@
 # BlTouch
 
-#### Config einbinden
+### **1. Bltouch Sektion in printer.cfg einfügen**
 
 {% code lineNumbers="true" %}
-```html
+```json
 #######################################
 #         PROBE    #Stealthburner     #    
 #######################################
@@ -20,3 +20,8 @@ speed: 15
 ```
 {% endcode %}
 
+{% hint style="info" %}
+```
+Select your `sensor_pin:` and `control_pin:`.
+```
+{% endhint %}
