@@ -2,6 +2,8 @@
 
 #### Neopixel in macros.cfg einbinden
 
+> [**https://github.com/cryd-s/Vyper\_extended/blob/main/1\_extended\_board/stealthburner%20toolhead/printer\_stealthburner.cfg**](https://github.com/cryd-s/Vyper\_extended/blob/main/1\_extended\_board/stealthburner%20toolhead/printer\_stealthburner.cfg)****
+
 ```json
 [neopixel sb_leds]
 pin: PA13
