@@ -21,5 +21,5 @@ speed: 15
 {% endcode %}
 
 {% hint style="info" %}
-Select your \``` sensor_pin` and `control_pin` ``
+**Select your #sensor\_pin and #control\_pin**
 {% endhint %}
