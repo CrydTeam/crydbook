@@ -18,6 +18,8 @@
 
 </details>
 
+### Schrauben
+
 | Typ             | Anzahl | Verwendung                       |
 | --------------- | ------ | -------------------------------- |
 | M3x4 (Senkkopf) | 2      | Radiallüfter                     |
