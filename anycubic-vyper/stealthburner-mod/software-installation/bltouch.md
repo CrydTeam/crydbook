@@ -1,6 +1,6 @@
 # BlTouch
 
-### **1. Bltouch Sektion in printer.cfg einfügen**
+#### **Bltouch Sektion in printer.cfg einfügen**
 
 {% code lineNumbers="true" %}
 ```json

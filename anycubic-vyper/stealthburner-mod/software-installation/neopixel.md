@@ -1,6 +1,6 @@
 # Neopixel
 
-1. Neopixel in macros.cfg einbinden
+#### Neopixel in macros.cfg einbinden
 
 ```json
 [neopixel sb_leds]
