@@ -1,6 +1,6 @@
 # Neopixel
 
-#### Neopixel in macros.cfg einbinden
+### Neopixel in macros.cfg einbinden
 
 > ****[_**Link zur Config**_](https://github.com/cryd-s/Vyper\_extended/blob/main/1\_extended\_board/stealthburner%20toolhead/printer\_stealthburner.cfg)_****_
 
