@@ -2,6 +2,22 @@
 
 <figure><img src="https://raw.githubusercontent.com/cryd-s/Vyper_extended/main/0_mods/Stealthburner_Mod/bilder/Stealthbruner_Teile.png" alt=""><figcaption></figcaption></figure>
 
+<details>
+
+<summary>Ablauf Zusammenbau</summary>
+
+1. Bowder 1 + 2 zusammenschraube + Pushfit einsetzten
+2. Bltouch an Adapterplatte schrauben
+3. Hotend einsetzten und Hotend Front + End zusammenschrauben
+4. Board in Abdeckung schrauben
+5. Senkkopfschrauben an Adapterplatte einsetzten
+6. Bowdenteile an Adapterplatte befestigen
+7. Hotend an Adapterplatte befestigen
+8. Alle Kabel durch Bowden Adapter nach hinten druch führen
+9. Mainboard (Front) auf Adapterplatte setzten
+
+</details>
+
 | Typ             | Anzahl | Verwendung                       |
 | --------------- | ------ | -------------------------------- |
 | M3x4 (Senkkopf) | 2      | Radiallüfter                     |
