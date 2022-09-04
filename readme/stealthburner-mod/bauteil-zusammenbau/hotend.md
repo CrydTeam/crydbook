@@ -13,16 +13,8 @@ _Die Orginale Anleitung ist hier zu finden:_\
 
 <figure><img src="../../../.gitbook/assets/toolhead4.jpg" alt=""><figcaption><p>Toolhead Kabelfürhung</p></figcaption></figure>
 
-<div>
-
 <figure><img src="../../../.gitbook/assets/toolhead.jpg" alt=""><figcaption><p><strong>Toolhead Vorder-und Rückseite zusammenschraube</strong></p></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/toolhead2.jpg" alt=""><figcaption><p>Hotend befestigen</p></figcaption></figure>
 
- 
-
-<figure><img src="../../../.gitbook/assets/toolhead3.jpg" alt=""><figcaption><p>PTFE einsetzten</p></figcaption></figure>
-
-</div>
+<figure><img src="../../../.gitbook/assets/toolhead3.jpg" alt=""><figcaption></figcaption></figure>
