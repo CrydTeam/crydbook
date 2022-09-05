@@ -10,4 +10,4 @@ Wichtig! Bei allen Steckern die Pinbelegung beachten. Auf der Rückseite des Boa
 Das folgende Bild dient nur zur Darstellung. Die Belegungen können je nach Version des Boards variieren
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/1.3a.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.3a.jpg" alt=""><figcaption></figcaption></figure>
