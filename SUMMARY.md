@@ -1,7 +1,7 @@
 # Table of contents
 
 * [--- 3D Druck ---](README.md)
-* [Anycubic Vyper](<README (1).md>)
+* [Anycubic Vyper](README.md)
   * [Modifications](readme/modifications/README.md)
     * [Stealthburner](anycubic-vyper/stealthburner-mod/README.md)
       * [Zusammenbau](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/README.md)
