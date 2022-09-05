@@ -46,3 +46,9 @@ resistance2: 1366.2
 temperature3: 250
 resistance3: 168.6
 ```
+
+{% hint style="warning" %}
+Nach dem Wechsel des Hotends ist ein neues PID Tuning für den Extruder erforderlich.
+{% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=8h9hYSACWhc" %}
