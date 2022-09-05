@@ -1,7 +1,7 @@
 # Table of contents
 
 * [--- 3D Druck ---](README.md)
-* [Anycubic Vyper](README.md)
+* [Anycubic Vyper](<README (1).md>)
   * [Modifications](readme/modifications/README.md)
     * [Stealthburner](anycubic-vyper/stealthburner-mod/README.md)
       * [Zusammenbau](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/README.md)
@@ -32,6 +32,7 @@
   * [Modifications](voron-2.4/modifications.md)
   * [Configs](voron-2.4/configs.md)
   * [Super Slicer Profile](voron-2.4/super-slicer-profile.md)
+  * [Dokumentation](voron-2.4/dokumentation.md)
 * [Crydteam Configs](crydteam-configs.md)
 * [--- Smarthome ---](smarthome.md)
 * [Home Assitant](home-assitant.md)
