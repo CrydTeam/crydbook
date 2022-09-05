@@ -11,6 +11,7 @@
       * [Hotend Lüfter](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/hotend-luefter.md)
       * [Bauteile zusammenfügen](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/bauteile-zusammenfuegen.md)
       * [Stecker Crimpen](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/stecker-crimpen.md)
+      * [Stealthburner anbringen](readme/stealthburner-mod/bauteil-zusammenbau/stealthburner-anbringen.md)
     * [Software Installation](anycubic-vyper/stealthburner-mod/software-installation/README.md)
       * [BlTouch](anycubic-vyper/stealthburner-mod/software-installation/bltouch.md)
       * [Neopixel](anycubic-vyper/stealthburner-mod/software-installation/neopixel.md)
