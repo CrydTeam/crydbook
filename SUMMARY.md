@@ -14,6 +14,7 @@
     * [Software Installation](anycubic-vyper/stealthburner-mod/software-installation/README.md)
       * [BlTouch](anycubic-vyper/stealthburner-mod/software-installation/bltouch.md)
       * [Neopixel](anycubic-vyper/stealthburner-mod/software-installation/neopixel.md)
+      * [Extruder Sensor anpassen](readme/stealthburner-mod/software-installation/extruder-sensor-anpassen.md)
     * [Inbetriebnahme](anycubic-vyper/stealthburner-mod/inbetriebnahme/README.md)
       * [Motor Test](anycubic-vyper/stealthburner-mod/inbetriebnahme/motor-test.md)
       * [Lüfter Test](anycubic-vyper/stealthburner-mod/inbetriebnahme/luefter-test.md)
