@@ -5,7 +5,7 @@ coverY: 228.06091370558374
 
 # Stealthburner Mod
 
-Hier ist einmal die Komplette Video Reihe\
+Crydteam Stealthburner Videoreihe \
 
 
 {% embed url="https://www.youtube.com/watch?v=3aNLQns1uqU" %}
