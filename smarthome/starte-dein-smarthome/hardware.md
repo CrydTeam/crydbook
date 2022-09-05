@@ -12,4 +12,4 @@ Als Zentrale würde ich dir noch einen Raspberry Pi empfehlen (3b+ oder noch bes
 
 Ich nutze aktuell einen Pi 4 mit 8gb Ram&#x20;
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="original">
