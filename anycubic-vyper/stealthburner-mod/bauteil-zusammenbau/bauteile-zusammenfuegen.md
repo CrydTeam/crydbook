@@ -2,6 +2,8 @@
 
 <figure><img src="https://raw.githubusercontent.com/cryd-s/Vyper_extended/main/0_mods/Stealthburner_Mod/bilder/Stealthbruner_Teile.png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://www.youtube.com/watch?index=10&list=PLWqnUinimMN3Upj3a3BzVFsixutHB0ZP5&v=WT-PQuQLxzc" %}
+
 <details>
 
 <summary>Ablauf Zusammenbau</summary>
