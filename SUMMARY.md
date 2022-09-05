@@ -30,6 +30,7 @@
         * [Umsetzungsmöglichkeiten](3d-druck/readme/modifications/bed-mod/umsetzungsmoeglichkeiten.md)
         * [Einbau](3d-druck/readme/modifications/bed-mod/einbau/README.md)
           * [Löcher ausstanzen](3d-druck/readme/modifications/bed-mod/einbau/loecher-ausstanzen.md)
+          * [Silkondämpfer einsetzten](3d-druck/readme/modifications/bed-mod/einbau/silkondaempfer-einsetzten.md)
     * [Configs](readme/configs.md)
     * [Superslicer Profile](readme/superslicer-profile.md)
     * [Dokumentation](readme/dokumentation/README.md)

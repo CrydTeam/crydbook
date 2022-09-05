@@ -1,8 +1,6 @@
 # Löcher ausstanzen
 
-Löcher ausstanzen und dann so lassen (so machen es die Meisten)\
-\
-Mit dem [Standzeisen](../hardware.md)
+Mit dem [Lochstanzer](../hardware.md) dann die Löcher sanft ausstanzen.
 
 
 
