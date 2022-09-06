@@ -25,6 +25,7 @@
           * [Lüfter Test](anycubic-vyper/stealthburner-mod/inbetriebnahme/luefter-test.md)
           * [Bltouch](anycubic-vyper/stealthburner-mod/inbetriebnahme/bltouch.md)
           * [Neopixel](anycubic-vyper/stealthburner-mod/inbetriebnahme/neopixel.md)
+        * [Zusätzliches](3d-druck/readme/modifications/stealthburner-mod/zusaetzliches.md)
       * [Bed Mod](3d-druck/readme/modifications/bed-mod/README.md)
         * [Hardware](3d-druck/readme/modifications/bed-mod/hardware.md)
         * [Umsetzungsmöglichkeiten](3d-druck/readme/modifications/bed-mod/umsetzungsmoeglichkeiten.md)
