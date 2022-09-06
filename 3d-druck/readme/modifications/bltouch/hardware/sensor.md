@@ -1,8 +1,6 @@
 # Sensor
 
-
-
-#### Für diese Modifikation wird ein sogenannter Bltouch Sensor benötigt.
+Für diese Modifikation wird ein sogenannter Bltouch Sensor benötigt.
 
 <figure><img src="../../../../../.gitbook/assets/Unbenannt.PNG" alt=""><figcaption><p>Antclabs BL Touch</p></figcaption></figure>
 
