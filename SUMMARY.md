@@ -98,3 +98,5 @@
     * [Automatischer Energy Sensor](smarthome/dashboard-design/automatischer-energy-sensor.md)
     * [Mini Graph Card einfärben](smarthome/dashboard-design/mini-graph-card-einfaerben.md)
     * [Auto-Entity](smarthome/dashboard-design/auto-entity.md)
+  * [Meine Hardware](smarthome/meine-hardware.md)
+  * [Support Links](smarthome/support-links.md)
