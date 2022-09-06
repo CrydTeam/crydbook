@@ -16,7 +16,7 @@ Heizungsthermostate [FritzDect ](https://amzn.to/3GCRZex)oder [Tado](https://amz
 
 Fenster Sensoren von Aqara:&#x20;
 
-[Aliexpress 1](https://s.click.aliexpress.com/e/\_AZVvVD) - [Aliexpress 2](https://s.click.aliexpress.com/e/\_Agr0Er) - [Aliexpress 3](https://s.click.aliexpress.com/e/\_97LgdN) - [Amazon  ](https://amzn.to/3wQIogI)&#x20;
+[Aliexpress](https://s.click.aliexpress.com/e/\_DlPqucx) - [Amazon  ](https://amzn.to/3wQIogI)&#x20;
 
 [Haustür Klingel mit Cam ](https://amzn.to/3mdLTYE)
 
