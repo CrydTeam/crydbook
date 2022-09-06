@@ -19,6 +19,8 @@ speed: 3
 #samples_result: average
 ```
 
+\-----------------------------------------------------------------------------------------------------
+
 2\. Bltouch als Endstop definieren
 
 ```
@@ -41,6 +43,8 @@ microsteps: 16
 rotation_distance: 8
 ```
 
+\-----------------------------------------------------------------------------------------------------
+
 3\. Neuen Homepunkt und Safe Home einrichten
 
 ```
@@ -48,6 +52,8 @@ rotation_distance: 8
 home_xy_position: 175.5,100 ; Virtual Probe in the middle of the bed
 z_hop: 10
 ```
+
+\-----------------------------------------------------------------------------------------------------
 
 4\. Alte Probe Sektion löschen (Folgende Abschnitte löschen oder auskommentieren)
 
@@ -61,3 +67,22 @@ z_hop: 10
 
 #[output_pin probe_reset_pin]
 <strong>#pin: PB13</strong></code></pre>
+
+\-----------------------------------------------------------------------------------------------------
+
+5\. Z-Tilt einfügen
+
+```
+[z_tilt]
+z_positions:
+    -30,135
+    275,135
+points:
+    60,105
+    260,105
+speed: 140
+horizontal_move_z: 7
+retries: 7
+retry_tolerance: 0.015
+```
+
