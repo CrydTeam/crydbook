@@ -12,7 +12,7 @@ Heizungsthermostate [FritzDect ](https://amzn.to/3GCRZex)oder [Tado](https://amz
 
 [Meater Plus](https://amzn.to/3P5EsPo) &#x20;
 
-[Pflanz Sensor ](https://amzn.to/3bWJO1l)
+[Pflanz Sensor ](https://amzn.to/3REtxgR)
 
 Fenster Sensoren von Aqara:&#x20;
 
