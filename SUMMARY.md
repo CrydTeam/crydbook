@@ -11,6 +11,7 @@
           * [Leitungen](3d-druck/readme/modifications/bltouch/hardware/leitungen.md)
         * [Software](3d-druck/readme/modifications/bltouch/software/README.md)
           * [Display Anschluss](3d-druck/readme/modifications/bltouch/software/display-anschluss.md)
+          * [Endstop Anschluss](3d-druck/readme/modifications/bltouch/software/endstop-anschluss.md)
       * [Stealthburner](anycubic-vyper/stealthburner-mod/README.md)
         * [Zusammenbau](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/README.md)
           * [Benötigte Druckteile](anycubic-vyper/stealthburner-mod/bauteil-zusammenbau/benoetigte-druckteile.md)
