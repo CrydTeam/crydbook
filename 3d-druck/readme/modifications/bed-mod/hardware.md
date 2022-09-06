@@ -6,26 +6,22 @@ description: Alles was du für diesen Mod brauchst
 
 ### _Übersicht_
 
-_● 4 -12 Silikondämpfer_\
-_● Lochstanzer (Durchmesser 10)_\
-_● eine neue Magnetfolie ist nicht zwangsläufig notwendig_\
-_● Visualisierung der Meshwerte, ich hab Octoprint & Bed Visualizer benutzt_\
-_● Schablone zum kürzen der Dämpfer (Cutting-Tool)_\
-_● Schablone, um die Schrauben im Bett zu finden (SchabloneV2rechts12mm)_
-
-__
-
-__
+_●_ 4 -12 Silikondämpfer\
+● Lochstanzer (Durchmesser 10)\
+● _Eine neue Magnetfolie.  (Ist nicht zwangsläufig notwendig)_\
+● Visualisierung der Meshwerte (Klipper oder Octoprint)\
+● Schablone, um die Schrauben im Bett zu finden
 
 ### Dämpfer:
 
-* für Sparfüchse: 1x [AIEX 8 Stück 3D Drucker Silikon Nivelliersäule](https://amzn.to/39nxIgM)
+* **Unsere Empfehlung :** Für den Vyper zugeschnittene Silikondämpfer in Verschiedenen Farben von [Printbay ](https://printbay.eu/Anycubic)
+* Für Sparfüchse: 1x [AIEX 8 Stück 3D Drucker Silikon Nivelliersäule](https://amzn.to/39nxIgM)
 
 {% hint style="info" %}
-Achtung: die Dämpfer müssen zugeschnitten werden. [Schablone](https://github.com/cryd-s/Vyper\_extended/tree/main/0\_mods/Bed\_Mod/stl) ist im [Discord ](https://discord.gg/kBdeP3ZtCY)hinterlegt
+Achtung: die Dämpfer müssen zugeschnitten werden.
 {% endhint %}
 
-* Für den Vyper zugeschnittene Silikondämpfer in Verschiedenen Farben von [Printbay ](https://printbay.eu/Anycubic)
+
 
 ### Stanzer:
 
