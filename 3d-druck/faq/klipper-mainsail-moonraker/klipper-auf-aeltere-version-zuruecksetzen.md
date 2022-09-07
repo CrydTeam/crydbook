@@ -8,3 +8,22 @@ Klipper auf ältere Version setzten
 Vorher immer Backups erstellen.\
 FTP -> klipper\_config ordner sichern
 {% endhint %}
+
+Aktuelle Version des Klipper ordners anzeigen
+
+```
+cd ~/klipper
+git show
+```
+
+Letzte Commits anzeigen:
+
+```
+git log --stat
+```
+
+Klipper Ordner zurücksetzten
+
+```
+git reset --hard <COMMIT_NUMMER>
+```
