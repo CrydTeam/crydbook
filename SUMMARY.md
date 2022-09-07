@@ -86,6 +86,7 @@
     * [Sonstiges](3d-druck/faq/sonstiges/README.md)
       * [SD Karten Formatierung unter Mac](3d-druck/faq/sonstiges/sd-karten-formatierung-unter-mac.md)
     * [Kiau installieren](3d-druck/faq/kiau-installieren.md)
+  * [Support Links](3d-druck/support-links.md)
 * [Smarthome via Home Assistant](smarthome-via-home-assistant/README.md)
   * [Starte dein Smarthome](smarthome-via-home-assistant/starte-dein-smarthome/README.md)
     * [Hardware?](smarthome-via-home-assistant/starte-dein-smarthome/hardware.md)
