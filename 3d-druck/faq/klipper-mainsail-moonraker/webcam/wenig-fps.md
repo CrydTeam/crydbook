@@ -22,6 +22,8 @@ max_fps: 15                             # If Hardware Supports this it will be f
 
 > max\_fps = Ihr könnt diese FPS mal auf 30 oder 60 hochsetzen&#x20;
 
+<figure><img src="../../../../.gitbook/assets/fps.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Ebenfalls könnt ihr auf dem Mainsail Dashboard in den Einstellungen unter Webcam Einstellungen die FPS mal höher stellen.
 {% endhint %}
