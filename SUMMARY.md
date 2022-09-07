@@ -72,6 +72,7 @@
       * [Cancel print button/Funktion geht nicht](3d-druck/faq/klipper-mainsail-moonraker/cancel-print-button-funktion-geht-nicht.md)
       * [Pi Auslastung prüfen](3d-druck/faq/klipper-mainsail-moonraker/pi-auslastung-pruefen.md)
       * [Timelapse funktionert nach Update nicht mehr](3d-druck/faq/klipper-mainsail-moonraker/timelapse-funktionert-nach-update-nicht-mehr.md)
+      * [Der Drucker geht während des Drucks auf Pause](3d-druck/faq/klipper-mainsail-moonraker/der-drucker-geht-waehrend-des-drucks-auf-pause.md)
     * [Slicing / Druckergebnis](3d-druck/faq/slicing-druckergebnis/README.md)
       * [Druckbild ist schlecht](3d-druck/faq/slicing-druckergebnis/druckbild-ist-schlecht.md)
       * [Druckbetthaftung](3d-druck/faq/slicing-druckergebnis/druckbetthaftung.md)
