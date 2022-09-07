@@ -81,7 +81,7 @@
       * [Bluetooth Reichweiten Problem?](smarthome-via-home-assistant/integrationen/pflanzsensoren/bluetooth-reichweiten-problem/README.md)
         * [Hardware](smarthome-via-home-assistant/integrationen/pflanzsensoren/bluetooth-reichweiten-problem/hardware.md)
         * [ESP Code zur Gerätesuche](smarthome-via-home-assistant/integrationen/pflanzsensoren/bluetooth-reichweiten-problem/esp-code-zur-geraetesuche.md)
-        * [Sensoren integrieren](smarthome-via-home-assistant/integrationen/pflanzsensoren/bluetooth-reichweiten-problem/sensoren-integrieren.md)
+        * [Sensoren integrieren](smarthome-via-home-assistant/integrationen/pflanzsensoren/bluetooth-reichweiten-problem/esp-code-incl.-sensoren.md)
   * [Energy](smarthome-via-home-assistant/energy/README.md)
     * [Shelly 3em](smarthome-via-home-assistant/energy/shelly-3em/README.md)
       * [Phasen kombinieren](smarthome-via-home-assistant/energy/shelly-3em/phasen-kombinieren.md)

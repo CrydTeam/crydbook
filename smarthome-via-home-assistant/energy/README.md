@@ -8,6 +8,6 @@ coverY: 440.0220264317181
 
 ![](<../../.gitbook/assets/image (15).png>)
 
-<img src="../../.gitbook/assets/image (11).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="original">
 
 ![](<../../.gitbook/assets/image (14).png>)
