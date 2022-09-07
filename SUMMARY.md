@@ -74,6 +74,7 @@
       * [Pi Auslastung prüfen](3d-druck/faq/klipper-mainsail-moonraker/pi-auslastung-pruefen.md)
       * [Timelapse funktionert nach Update nicht mehr](3d-druck/faq/klipper-mainsail-moonraker/timelapse-funktionert-nach-update-nicht-mehr.md)
       * [Der Drucker geht während des Drucks auf Pause](3d-druck/faq/klipper-mainsail-moonraker/der-drucker-geht-waehrend-des-drucks-auf-pause.md)
+      * [Klipper auf ältere Version zurücksetzen](3d-druck/faq/klipper-mainsail-moonraker/klipper-auf-aeltere-version-zuruecksetzen.md)
     * [Slicing / Druckergebnis](3d-druck/faq/slicing-druckergebnis/README.md)
       * [Super Slicer](3d-druck/faq/slicing-druckergebnis/super-slicer/README.md)
         * [Relative Extrusion aktivieren](3d-druck/faq/slicing-druckergebnis/super-slicer/relative-extrusion-aktivieren.md)
