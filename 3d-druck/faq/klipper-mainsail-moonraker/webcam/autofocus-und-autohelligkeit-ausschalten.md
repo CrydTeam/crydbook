@@ -6,6 +6,8 @@
 v4l2-ctl --list-ctrls 
 ```
 
+<figure><img src="../../../../.gitbook/assets/list_ctls.PNG" alt=""><figcaption><p>List ctrls</p></figcaption></figure>
+
 
 
 ## Prüfen ob die Befehle richtig umgesetzt werden
