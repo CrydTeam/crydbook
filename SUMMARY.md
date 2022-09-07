@@ -59,6 +59,7 @@
       * [Webcam](3d-druck/faq/klipper-mainsail-moonraker/webcam/README.md)
         * [Wenig FPS](3d-druck/faq/klipper-mainsail-moonraker/webcam/wenig-fps.md)
         * [Kein Bild der Webcam](3d-druck/faq/klipper-mainsail-moonraker/webcam/kein-bild-der-webcam.md)
+        * [Autofocus und Autohelligkeit ausschalten](3d-druck/faq/klipper-mainsail-moonraker/webcam/autofocus-und-autohelligkeit-ausschalten.md)
       * [Fehlermeldungen Konsole](3d-druck/faq/klipper-mainsail-moonraker/fehlermeldungen-konsole/README.md)
         * [Move exceeds maximum extrusion](3d-druck/faq/klipper-mainsail-moonraker/fehlermeldungen-konsole/move-exceeds-maximum-extrusion.md)
     * [3D Druck allgemein](3d-druck/faq/3d-druck-allgemein.md)
