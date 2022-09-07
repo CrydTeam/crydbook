@@ -54,6 +54,8 @@ gcode:
     {action_respond_info("Printer not homed")}
   {% endif %}</code></pre>
 
+<figure><img src="../../../.gitbook/assets/cancle_print.jpg" alt=""><figcaption><p>Cancle Print Activation</p></figcaption></figure>
+
 ## Zusätzliche Makros
 
 ```
