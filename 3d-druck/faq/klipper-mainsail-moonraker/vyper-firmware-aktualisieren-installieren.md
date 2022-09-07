@@ -1,8 +1,6 @@
 # Vyper Firmware aktualisieren / installieren
 
-## Aktualisieren / Installieren
-
-1. SSH Verbindung aufbauen (Putty) und Firmware erstellen
+## 1. SSH Verbindung aufbauen (Putty) und Firmware erstellen
 
 ```
 cd ~/klipper
@@ -14,7 +12,17 @@ make menuconfig
 
 <figure><img src="../../../.gitbook/assets/Vyper_firmware.PNG" alt=""><figcaption><p>Vyper firmware</p></figcaption></figure>
 
-2\. Firmware auf SD Karte packen
+Mit Q verlassen und speichern.
+
+```
+make clean
+```
+
+```
+make
+```
+
+## 2. Firmware auf SD Karte packen
 
 * FTP Verbindung aufbauen (Filezilla, WinSCP) und klipper.bin downloaden\
   Die klipper.bin liegt in `/home/pi/klipper/out/klipper.bin`
@@ -30,7 +38,7 @@ Der Name der .bin muss sich immer zu der vorherigen Version der Zahlenkombinatio
 alt: 20220909  -> neu: 20220910
 {% endhint %}
 
-3\. Drucker Flashen
+## 3. Drucker Flashen
 
 * Drucker ausschalten
 * Verbindungskabel zum Pi abziehen
