@@ -62,6 +62,7 @@
         * [Autofocus und Autohelligkeit ausschalten](3d-druck/faq/klipper-mainsail-moonraker/webcam/autofocus-und-autohelligkeit-ausschalten.md)
       * [Fehlermeldungen Konsole](3d-druck/faq/klipper-mainsail-moonraker/fehlermeldungen-konsole/README.md)
         * [Move exceeds maximum extrusion](3d-druck/faq/klipper-mainsail-moonraker/fehlermeldungen-konsole/move-exceeds-maximum-extrusion.md)
+      * [Wo finde ich die Logdateien](3d-druck/faq/klipper-mainsail-moonraker/wo-finde-ich-die-logdateien.md)
     * [3D Druck allgemein](3d-druck/faq/3d-druck-allgemein.md)
     * [Slicing / Druckergebnis](3d-druck/faq/slicing-druckergebnis/README.md)
       * [Druckbild ist schlecht](3d-druck/faq/slicing-druckergebnis/druckbild-ist-schlecht.md)
