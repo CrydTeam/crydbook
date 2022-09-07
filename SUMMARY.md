@@ -82,6 +82,8 @@
         * [Cura Startcode](3d-druck/faq/slicing-druckergebnis/cura/cura-startcode.md)
       * [Druckbild ist schlecht](3d-druck/faq/slicing-druckergebnis/druckbild-ist-schlecht.md)
       * [Druckbetthaftung](3d-druck/faq/slicing-druckergebnis/druckbetthaftung.md)
+    * [Sonstiges](3d-druck/faq/sonstiges/README.md)
+      * [SD Karten Formatierung unter Mac](3d-druck/faq/sonstiges/sd-karten-formatierung-unter-mac.md)
 * [Smarthome via Home Assistant](smarthome-via-home-assistant/README.md)
   * [Starte dein Smarthome](smarthome-via-home-assistant/starte-dein-smarthome/README.md)
     * [Hardware?](smarthome-via-home-assistant/starte-dein-smarthome/hardware.md)
