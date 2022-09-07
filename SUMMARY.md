@@ -59,6 +59,7 @@
       * [Move exceeds maximum extrusion](3d-druck/faq/klipper-mainsail-moonraker/fehlermeldungen-konsole/move-exceeds-maximum-extrusion.md)
       * [Unknown command:"DEFINE\_OBJECT"](3d-druck/faq/fehlermeldungen-konsole/unknown-command-define\_object.md)
       * [Internal Error on Command: SDCAR\_PRINT\_FILE](3d-druck/faq/fehlermeldungen-konsole/internal-error-on-command-sdcar\_print\_file.md)
+      * [Printer is not ready](3d-druck/faq/fehlermeldungen-konsole/printer-is-not-ready.md)
     * [Klipper/Mainsail/Moonraker](3d-druck/faq/klipper-mainsail-moonraker/README.md)
       * [Webcam](3d-druck/faq/klipper-mainsail-moonraker/webcam/README.md)
         * [Wenig FPS](3d-druck/faq/klipper-mainsail-moonraker/webcam/wenig-fps.md)
