@@ -73,6 +73,7 @@
       * [Pi Auslastung prüfen](3d-druck/faq/klipper-mainsail-moonraker/pi-auslastung-pruefen.md)
     * [Slicing / Druckergebnis](3d-druck/faq/slicing-druckergebnis/README.md)
       * [Druckbild ist schlecht](3d-druck/faq/slicing-druckergebnis/druckbild-ist-schlecht.md)
+      * [Druckbetthaftung](3d-druck/faq/slicing-druckergebnis/druckbetthaftung.md)
 * [Smarthome via Home Assistant](smarthome-via-home-assistant/README.md)
   * [Starte dein Smarthome](smarthome-via-home-assistant/starte-dein-smarthome/README.md)
     * [Hardware?](smarthome-via-home-assistant/starte-dein-smarthome/hardware.md)
