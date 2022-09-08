@@ -8,6 +8,6 @@ Mit diesen Ref Links kannst du wie gewohnt über Amazon und AliExpress shoppen u
 
 Falls du dich erkenntlich zeigen willst kannst du auch gerne diese Links mal anschauen - Vielen Dank für deinen Support im Voraus!!!!
 
-[Spendenlink ](https://www.paypal.com/pools/c/8MnW4kDuO5)
+[Spendenlink](https://streamelements.com/crydteam/tip)&#x20;
 
 [Amazon Wishlist](https://www.amazon.de/hz/wishlist/ls/99DAZJA1YR9M?ref\_=wl\_share)
