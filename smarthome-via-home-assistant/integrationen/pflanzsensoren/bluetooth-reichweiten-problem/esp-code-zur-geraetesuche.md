@@ -8,7 +8,7 @@ description: diesen Code nimmst du um alle Bluetooth Geräte in Reichweite zu fi
 
 ```
 esphome:
-  name: bluetoothrepeater
+  name: bluetoothproxy
 
 esp32:
   board: esp32dev
@@ -32,7 +32,7 @@ wifi:
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: "Bluetoothrepeater"
+    ssid: "Bluetoothproxy"
     password: "NFSnjxtyYeM1"
 
 captive_portal:
