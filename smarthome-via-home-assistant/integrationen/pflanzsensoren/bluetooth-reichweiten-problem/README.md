@@ -6,3 +6,4 @@ description: >-
 
 # Bluetooth Reichweiten Problem?
 
+{% embed url="https://www.youtube.com/watch?v=8UId-cU0y6w" %}

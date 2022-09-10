@@ -26,3 +26,7 @@ browser_mod:
     content:
       type: ...etc...
 ```
+
+{% hint style="info" %}
+Danke an TravisWilder für die Info&#x20;
+{% endhint %}
