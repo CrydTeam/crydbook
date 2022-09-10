@@ -4,39 +4,11 @@ description: diesen Code nimmst du um alle Bluetooth Geräte in Reichweite zu fi
 
 # ESP Code zur Gerätesuche
 
+![](<../../../../.gitbook/assets/image (3).png>)
 
+Jetzt müsst ihr folgenden Code einfügen:
 
 ```
-esphome:
-  name: bluetoothproxy
-
-esp32:
-  board: esp32dev
-  framework:
-    type: arduino
-
-# Enable logging
-logger:
-
-# Enable Home Assistant API
-api:
-  encryption:
-    key: "Pyj0Ttyg4rMvYCtzcpdAUookNAuAMBWu/EcxvDIqpy0="
-
-ota:
-  password: "f1f3301532e4e53b34acc86a6acba692"
-
-wifi:
-  ssid: !secret wifi_ssid
-  password: !secret wifi_password
-
-  # Enable fallback hotspot (captive portal) in case wifi connection fails
-  ap:
-    ssid: "Bluetoothproxy"
-    password: "NFSnjxtyYeM1"
-
-captive_portal:
-
 esp32_ble_tracker:
 bluetooth_proxy:
 ```
@@ -44,4 +16,3 @@ bluetooth_proxy:
 Als Ergebnis solltet ihr dann folgendes im Log finden:
 
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-

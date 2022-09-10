@@ -51,7 +51,7 @@ entities:
         unit: Tage(n)
       - entity: sensor.papierabfall_date
         name: Datum
-  - entity: sensor.papierabfall_date
+  - entity: sensor.plastiktonne_date
     style: |
       :host {
         color: yellow
@@ -95,4 +95,5 @@ entities:
         value: '[[[ return entity.state.split("|")[1] == 1 ]]]'
       - value: default
 show_header_toggle: true
+
 ```
