@@ -120,7 +120,7 @@
       * [Config Einträge](smarthome-via-home-assistant/integrationen/pflanzsensoren/config-eintraege/README.md)
         * [Configuration.yaml](smarthome-via-home-assistant/integrationen/pflanzsensoren/config-eintraege/configuration.yaml.md)
         * [plant.yaml](smarthome-via-home-assistant/integrationen/pflanzsensoren/config-eintraege/plant.yaml.md)
-      * [Bluetooth Reichweiten Problem?](smarthome-via-home-assistant/integrationen/pflanzsensoren/bluetooth-reichweiten-problem.md)
+      * [Bluetooth Reichweiten Problem?](smarthome-via-home-assistant/integrationen/pflanzsensoren/bluetooth-reichweiten-problem/README.md)
     * [Bluetooth Reichweiten Problem?](smarthome-via-home-assistant/integrationen/bluetooth-reichweiten-problem/README.md)
       * [Hardware](smarthome-via-home-assistant/integrationen/bluetooth-reichweiten-problem/hardware.md)
       * [ESP Code zur Gerätesuche](smarthome-via-home-assistant/integrationen/bluetooth-reichweiten-problem/esp-code-zur-geraetesuche.md)
@@ -148,3 +148,4 @@
     * [Auto-Entity](smarthome-via-home-assistant/dashboard-design/auto-entity.md)
   * [Meine Hardware](smarthome-via-home-assistant/meine-hardware.md)
   * [Support Links](smarthome-via-home-assistant/support-links.md)
+* [Kontaktformular](kontaktformular.md)
