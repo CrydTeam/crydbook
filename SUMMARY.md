@@ -127,6 +127,7 @@
     * [Gas Sensor](smarthome-via-home-assistant/integrationen/gas-sensor/README.md)
       * [Hardware](smarthome-via-home-assistant/integrationen/gas-sensor/hardware.md)
       * [Anschlussplan](smarthome-via-home-assistant/integrationen/gas-sensor/anschlussplan.md)
+      * [Sensor.yaml](smarthome-via-home-assistant/integrationen/gas-sensor/sensor.yaml.md)
       * [ESP Code](smarthome-via-home-assistant/integrationen/gas-sensor/esp-code.md)
   * [Energy](smarthome-via-home-assistant/energy/README.md)
     * [Shelly 3em](smarthome-via-home-assistant/energy/shelly-3em/README.md)
