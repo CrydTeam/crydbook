@@ -1,3 +1,3 @@
 # Anschlussplan
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>3.3V und GPIO könnt ihr anschließen wie ihr wollt</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Welches Kabel wo steck ist hier egal</p></figcaption></figure>

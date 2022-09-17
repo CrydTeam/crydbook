@@ -11,7 +11,7 @@ globals:
   - id: total_pulses
     type: int
     restore_value: false
-    initial_value: '1727858'  # hier kann der Gaszählerstand initialisiert werden
+    initial_value: '0'  # hier kann der Gaszählerstand initialisiert werden - letze Stelle weglassen
 binary_sensor:
   - platform: gpio
     id: internal_pulse_counter
@@ -24,6 +24,8 @@ binary_sensor:
     on_press:
       then:
         - lambda: id(total_pulses) += 1;
+    on_release:
+      then:
 sensor:
   - platform: template
     name: "Gasverbrauch"
