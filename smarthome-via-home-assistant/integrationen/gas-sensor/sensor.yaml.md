@@ -4,13 +4,13 @@
 # Gaszähler, kommend von ESPHome, aufbereiten für Energy
 - platform: template
   sensors:
-    gasincubicmeter:
+    gasverbrauch:
       value_template:  >
           {% raw %}
-{% if states('sensor.gasverbrauch') | float == 0 %}
-            {{ states('sensor.gasincubicmeter') }}
+{% if states('sensor.gasverbrauch_esp') | float == 0 %}
+            {{ states('sensor.gasverbrauch') }}
           {% else %}
-            {{ states('sensor.gasverbrauch') | float }}
+            {{ states('sensor.gasverbrauch_esp') | float }}
           {% endif %}
 {% endraw %}
       unit_of_measurement: m³

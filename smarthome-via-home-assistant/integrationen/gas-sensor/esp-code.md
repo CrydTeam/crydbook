@@ -28,7 +28,7 @@ binary_sensor:
       then:
 sensor:
   - platform: template
-    name: "Gasverbrauch"
+    name: "Gasverbrauch_ESP"
     device_class: gas
     unit_of_measurement: "m³"
     state_class: "total_increasing"
