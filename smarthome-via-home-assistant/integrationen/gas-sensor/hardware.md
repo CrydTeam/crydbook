@@ -10,4 +10,4 @@ description: was brauche ich dafür alles?
 
 [Reed Sensor](https://amzn.to/3dthEfc) - [Alternative 1](https://amzn.to/3BotNu7) - [Alternative 2](https://amzn.to/3BMMysj)&#x20;
 
-[Crimp Set](https://amzn.to/3QQ4GWH) (oder fragt einen Bekannten)
+[Crimp Set](https://amzn.to/3UisF3F) (oder fragt einen Bekannten)
