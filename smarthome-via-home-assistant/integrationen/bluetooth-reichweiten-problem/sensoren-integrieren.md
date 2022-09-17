@@ -6,7 +6,7 @@ description: >-
 
 # Sensoren integrieren
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>die Sensoren werden automatisch gefunden</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>die Sensoren werden automatisch gefunden</p></figcaption></figure>
 
 {% hint style="info" %}
 Macht einen Sensor nach dem anderen sonst kommt man schnell durcheinander
