@@ -1,6 +1,7 @@
 # Table of contents
 
-* [3D Druck](README.md)
+* [Discord Tutorial](README.md)
+* [3D Druck](<README (2).md>)
   * [Anycubic](3d-druck/anycubic/README.md)
     * [Anycubic Vyper](<README (1).md>)
       * [Modifications](readme/modifications/README.md)
