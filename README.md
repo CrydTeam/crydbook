@@ -14,8 +14,8 @@ Zu aller erst müsst ihr dort bitte eure gewünschten Themen anwählen das könn
 
 als Topics gibt es unsere Kategorien:&#x20;
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (3).png>)
 
 unter dem Post findet ihr die dementsprechenden Icons die ihr anklicken könnt um die Kategorie zu aktivieren.
 
-<figure><img src=".gitbook/assets/image (6) (2).png" alt=""><figcaption><p>hier anklicken was ihr sehen wollt</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (3).png" alt=""><figcaption><p>hier anklicken was ihr sehen wollt</p></figcaption></figure>
