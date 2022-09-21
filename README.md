@@ -10,7 +10,7 @@ Gerne kannst du [HIER ](https://discord.gg/2vEVdejeBZ)auf unseren Discord joinen
 
 Zu aller erst müsst ihr dort bitte eure gewünschten Themen anwählen das könnt ihr in folgendem Channel machen:&#x20;
 
-![](<.gitbook/assets/image (2) (4).png>)
+![](<.gitbook/assets/image (2).png>)
 
 als Topics gibt es unsere Kategorien:&#x20;
 

@@ -6,7 +6,7 @@ coverY: 440.0220264317181
 
 # Energy
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="original">
 
