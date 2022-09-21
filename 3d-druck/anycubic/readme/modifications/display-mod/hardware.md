@@ -1,5 +1,5 @@
 ---
-description: Hier findet Ihr die benötigte Hardware für den DGUS Display Mod mit Klipper
+description: Hier findet Ihr die benötigte Hardware, für den DGUS Display Mod mit Klipper
 ---
 
 # Hardware
