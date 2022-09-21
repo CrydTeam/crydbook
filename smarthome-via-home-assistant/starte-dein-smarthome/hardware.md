@@ -14,4 +14,4 @@ ACHTUNG: benutzt am besten eine [SSD](https://amzn.to/3KPrBQm) und einen [SSD Ad
 
 Ich nutze aktuell einen Pi 4 mit 8gb Ram&#x20;
 
-<img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" data-size="original">

@@ -2,7 +2,7 @@
 description: Standard Display mit Klipper
 ---
 
-# Display Mod
+# DGUS Display Mod
 
 {% embed url="https://www.youtube.com/watch?v=_WQkVF006PY" %}
 
