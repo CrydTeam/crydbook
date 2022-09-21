@@ -1,8 +1,13 @@
 ---
 description: Alle gesammelten Modifikationen für den Vyper
+cover: >-
+  https://images.unsplash.com/photo-1563641749712-028dfeab14b3?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxnZWFyfGVufDB8fHx8MTY2Mzc5OTE5Nw&ixlib=rb-1.2.1&q=80
+coverY: 0
 ---
 
 # Modifications
+
+
 
 | Mod                                 | Link                                                                                                                                                                                                                         | Beschreibung                                                                      |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
