@@ -1,3 +1,7 @@
+---
+description: Hier findet Ihr die benötigte Hardware für den DGUS Display Mod mit Klipper
+---
+
 # Hardware
 
 ****[**Amazon TTL-USB Adapter**](https://amzn.to/3bh7WvC)****

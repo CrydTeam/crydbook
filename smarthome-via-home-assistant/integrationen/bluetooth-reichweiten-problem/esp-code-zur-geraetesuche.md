@@ -4,7 +4,7 @@ description: diesen Code nimmst du um alle Bluetooth Geräte in Reichweite zu fi
 
 # ESP Code zur Gerätesuche
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (2).png>)
 
 Jetzt müsst ihr folgenden Code einfügen:
 
