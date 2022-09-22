@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Discord Tutorial](README.md)
+  * [Support Ticket erstellen](discord-tutorial/support-ticket-erstellen.md)
 * [3D Druck](<README (2).md>)
   * [Anycubic](3d-druck/anycubic/README.md)
     * [Anycubic Vyper](<README (1).md>)
