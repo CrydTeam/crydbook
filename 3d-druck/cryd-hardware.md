@@ -15,7 +15,8 @@ Drucker Ersatzteile und Zubehör Allgemein&#x20;
 Drucker Ersatzteile und Zubehör Anycubic Vyper
 
 * [Hotend Socke Volcano Heatblock ](https://amzn.to/3JaM5lr)
-* [Nozzle Premium MicroSwiss](https://amzn.to/3BuEfzF)
+* [Nozzle Premium Mikro Swiss](https://amzn.to/3BuEfzF)
+* [Nozzle Messing](https://amzn.to/31DyaDC)
 *
 
 

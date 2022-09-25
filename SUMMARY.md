@@ -105,7 +105,7 @@
     * [Kiau installieren](3d-druck/faq/kiau-installieren.md)
   * [STL Datenbank](3d-druck/stl-datenbank.md)
   * [Cryd Hardware](3d-druck/cryd-hardware.md)
-  * [Support Links](3d-druck/support-links.md)
+  * [Support Links](3d-druck/support-links/README.md)
 * [Smarthome via Home Assistant](smarthome-via-home-assistant/README.md)
   * [Starte dein Smarthome](smarthome-via-home-assistant/starte-dein-smarthome/README.md)
     * [Hardware?](smarthome-via-home-assistant/starte-dein-smarthome/hardware.md)
