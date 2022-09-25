@@ -20,7 +20,16 @@ Drucker Ersatzteile und Zubehör Anycubic Vyper
 * [Hotend Socke Volcano Heatblock ](https://amzn.to/3wE0xy0)
 * [Nozzle Premium Mikro Swiss](https://amzn.to/3UDAJw9)
 * [Nozzle Messing](https://amzn.to/3LKERVC)
-*
 
+Drucker Ersatzteile und Zubehör Voron
 
+* text
 
+Werkzeuge, Crimpzubehör und Überwachung
+
+* [Cam mit Nachtsicht](https://amzn.to/3fiilZs)
+* [USB Webcams](https://amzn.to/3dCIVw9)
+* [Bügelmessschraube Premium](https://amzn.to/3SzbbOK)
+* [Bügelmessschraube Low Budget](https://amzn.to/3xSPDVA)
+* [Messschieber Premium](https://amzn.to/3fmNvPD)
+* [Messschieber Low Budget](https://amzn.to/3SC4ITv)
