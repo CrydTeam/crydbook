@@ -18,7 +18,7 @@ Fenster Sensoren von Aqara:&#x20;
 
 [Aliexpress](https://s.click.aliexpress.com/e/\_DlPqucx) - [Amazon  ](https://amzn.to/3wQIogI)&#x20;
 
-[Haustür Klingel mit Cam ](https://amzn.to/3mdLTYE)
+[Meine Empfehlung](https://amzn.to/3DX9B5h) oder die Alternativ [Haustür Klingel mit Cam ](https://amzn.to/3mdLTYE)
 
 [Haustür Schloss](https://amzn.to/3PJ82eO)&#x20;
 
