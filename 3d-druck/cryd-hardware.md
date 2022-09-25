@@ -26,7 +26,7 @@ Drucker Ersatzteile und Zubehör Anycubic Vyper
 
 Drucker Ersatzteile und Zubehör Voron
 
-* text
+* coming soon ...
 
 Werkzeuge, Crimpzubehör und Überwachung
 
