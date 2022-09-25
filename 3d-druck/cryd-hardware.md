@@ -13,6 +13,7 @@ Drucker Ersatzteile und Zubehör Allgemein&#x20;
 * [BLTouch Premium](https://amzn.to/3LHxJKZ)
 * [Bowden Schlauch Set](https://amzn.to/3BNtk4G)
 * [Druckerkabel mit guter Schirmung USB-A auf USB-B](https://amzn.to/3UyPMax)
+* [Filament Sensor BTT](https://amzn.to/3AJ0LXp)
 * [Nozzle Bürste Messing](https://amzn.to/3MQLEhu)
 * [Schraubensicherung](https://amzn.to/3dIOBo4)
 * [Spindelfett](https://amzn.to/3UwNrN4)
