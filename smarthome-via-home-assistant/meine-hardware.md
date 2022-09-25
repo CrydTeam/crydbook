@@ -8,7 +8,7 @@
 
 [Meine Uhr für Bodybatterie und Schritte](https://amzn.to/3wQagBx) &#x20;
 
-Heizungsthermostate [FritzDect ](https://amzn.to/3GCRZex)oder [Tado](https://amzn.to/3LQLMfQ)&#x20;
+Heizungsthermostate [Aqara (Zigbee)](https://amzn.to/3C8ysSf) / [FritzDect ](https://amzn.to/3GCRZex)oder [Tado](https://amzn.to/3LQLMfQ)&#x20;
 
 [Meater Plus](https://amzn.to/3P5EsPo) &#x20;
 
