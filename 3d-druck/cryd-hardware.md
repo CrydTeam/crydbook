@@ -25,9 +25,9 @@ Drucker Ersatzteile und Zubehör Anycubic Vyper
 * [Nozzle Messing](https://amzn.to/3LKERVC)
 * [Nozzle Premium Mikro Swiss](https://amzn.to/3UDAJw9)
 
-Drucker Ersatzteile und Zubehör Voron
+Drucker Ersatzteile und Zubehör Voron&#x20;
 
-* coming soon ...
+* [Nozzle Phaetus Hardened Steel 0,4mm](https://amzn.to/3SwAZLt)
 
 Werkzeuge, Crimpzubehör und Überwachung
 
