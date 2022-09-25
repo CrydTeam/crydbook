@@ -38,6 +38,8 @@ Werkzeuge, Crimpzubehör und Überwachung
 * [Crimp Set 2](https://amzn.to/3Cbm58i)
 * [JST XH 2,54mm](https://amzn.to/3UG00Wi)
 * [JST PH 2mm](https://amzn.to/3fkbyhM)
+* [Lötkolben](https://amzn.to/3Rs8ePn)
+* [Lötstation](https://amzn.to/3ScrJwd)
 * [Messschieber Low Budget](https://amzn.to/3SC4ITv)
 * [Messschieber Premium](https://amzn.to/3fmNvPD)
 * [Raspberry PI Jumperkabel (Dupont)](https://amzn.to/3LJHqsv)
