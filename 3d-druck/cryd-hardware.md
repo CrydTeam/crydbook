@@ -6,9 +6,17 @@ description: >-
 
 # Cryd Hardware
 
-Drucker Ersatzteile und Zubehör
+Drucker Ersatzteile und Zubehör Allgemein&#x20;
 
 * [Zahnriemen Turmberg3D GT2 2m x 6mm](https://amzn.to/3nbefn0)
 * [Druckerkabel mit guter Schirmung USB-A auf USB-B](https://amzn.to/34KWZ1G)
-* [Hotend Socke](https://amzn.to/3JaM5lr)
 * [Bowden Schlauch Set](https://amzn.to/3GnxHEn)
+
+Drucker Ersatzteile und Zubehör Anycubic Vyper
+
+* [Hotend Socke Volcano Heatblock ](https://amzn.to/3JaM5lr)
+* [Nozzle Premium MicroSwiss](https://amzn.to/3BuEfzF)
+*
+
+
+
