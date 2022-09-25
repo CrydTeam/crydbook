@@ -14,6 +14,7 @@ Drucker Ersatzteile und Zubehör Allgemein&#x20;
 * [Nozzle Bürste Messing](https://amzn.to/3MQLEhu)
 * [Spindelfett](https://amzn.to/3UwNrN4)
 * [Schraubensicherung](https://amzn.to/3dIOBo4)
+* [ADXL Sensor (Version zur Cryd Doku)](https://arduino-projekte.info/produkt/gy-291-adxl345-3-achsen-gyroskop-beschleunigungssensor/)
 
 Drucker Ersatzteile und Zubehör Anycubic Vyper
 
