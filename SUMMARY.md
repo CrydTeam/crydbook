@@ -161,5 +161,6 @@
     * [Auto-Entity](smarthome-via-home-assistant/dashboard-design/auto-entity.md)
   * [Meine Hardware](smarthome-via-home-assistant/meine-hardware.md)
   * [Support Links](smarthome-via-home-assistant/support-links.md)
+* [Spendenlink](spendenlink.md)
 * [Kontaktformular](kontaktformular.md)
 * [Impressum](impressum.md)
