@@ -60,6 +60,7 @@
     * [Ender 3 S1 / Pro / Plus](3d-druck/ender/ender-3-s1-pro-plus/README.md)
       * [Dokumentation](3d-druck/ender/ender-3-s1-pro-plus/dokumentation/README.md)
         * [Pinouts](3d-druck/ender/ender-3-s1-pro-plus/dokumentation/pinouts.md)
+  * [Rat Rig](3d-druck/rat-rig.md)
   * [Voron](3d-druck/voron/README.md)
     * [Voron 2.4](voron-2.4/README.md)
       * [Modifications](voron-2.4/modifications.md)
