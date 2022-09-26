@@ -31,7 +31,11 @@ Drucker Ersatzteile und Zubehör Anycubic Vyper
 
 Drucker Ersatzteile und Zubehör Voron&#x20;
 
+* [Kugellager für Linearschienen MGN9](https://www.kugel-winnie.de/epages/62136757.sf/sece0e5ed3a63/?ObjectPath=/Shops/62136757/Products/010101128)
+* [Kugellager für Linearschienen MGN12](https://www.kugel-winnie.de/epages/62136757.sf/sece0e5ed3a63/?ObjectPath=/Shops/62136757/Products/010101043)
 * [Nozzle Phaetus Hardened Steel 0,4mm](https://amzn.to/3SwAZLt)
+
+
 
 Werkzeuge, Crimpzubehör und Überwachung
 
