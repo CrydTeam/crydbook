@@ -3,6 +3,7 @@
 * [Discord Tutorial](README.md)
   * [Support Ticket erstellen](discord-tutorial/support-ticket-erstellen.md)
 * [3D Druck](<README (2).md>)
+  * [Hersteller / Marken / Modelle](3d-druck/hersteller-marken-modelle.md)
   * [Anycubic](3d-druck/anycubic/README.md)
     * [Anycubic Vyper](<README (1).md>)
       * [Modifications](readme/modifications/README.md)
