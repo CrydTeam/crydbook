@@ -2,6 +2,8 @@
 description: >-
   Hier findet Ihr ein paar Vorschläge von uns. Benutzt gerne unsere Links, um
   uns zu unterstützen.
+cover: https://www.3dnatives.com/de/wp-content/uploads/sites/3/Zuehor.jpg
+coverY: 76.30576713819369
 ---
 
 # Ersatzteile, Werkzeuge und Zubehör
