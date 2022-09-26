@@ -8,12 +8,14 @@ coverY: 76.30576713819369
 
 # Ersatzteile, Werkzeuge und Zubehör
 
-Drucker Ersatzteile und Zubehör Allgemein&#x20;
+<details>
+
+<summary>Drucker Ersatzteile und Zubehör Allgemein </summary>
 
 * [ADXL Sensor (Version zur Cryd Doku)](https://arduino-projekte.info/produkt/gy-291-adxl345-3-achsen-gyroskop-beschleunigungssensor/)
 * [ADXL Sensor mit USB Anschluss](https://lab4450.com/product/ksuba-adxl345/)
 * [BLTouch Low Budget](https://amzn.to/3fiNNaa)
-* [BLTouch Premium](https://amzn.to/3LHxJKZ)
+* [BLTouch Premium](https://amzn.to/3LHxJKZ)&#x20;
 * [Bowden Schlauch Set](https://amzn.to/3BNtk4G)
 * [Druckerkabel mit guter Schirmung USB-A auf USB-B](https://amzn.to/3UyPMax)
 * [Filament Sensor BTT](https://amzn.to/3AJ0LXp)
@@ -23,6 +25,10 @@ Drucker Ersatzteile und Zubehör Allgemein&#x20;
 * [Schraubensicherung](https://amzn.to/3dIOBo4)
 * [Spindelfett](https://amzn.to/3UwNrN4)
 * [Zahnriemen Turmberg3D GT2 2m x 6mm](https://amzn.to/3MQLdDS)
+
+
+
+</details>
 
 Drucker Ersatzteile und Zubehör Anycubic Vyper
 
