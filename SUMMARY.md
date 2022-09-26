@@ -56,6 +56,8 @@
     * [Anycubic i3 Mega S](3d-druck/anycubic/anycubic-i3-mega-s/README.md)
       * [Dokumentation](3d-druck/anycubic/anycubic-i3-mega-s/dokumentation/README.md)
         * [Pinouts](3d-druck/anycubic/anycubic-i3-mega-s/dokumentation/pinouts.md)
+  * [Elegoo](3d-druck/elegoo/README.md)
+    * [Neptune 3](3d-druck/elegoo/neptune-3.md)
   * [Ender](3d-druck/ender/README.md)
     * [Ender 3 S1 / Pro / Plus](3d-druck/ender/ender-3-s1-pro-plus/README.md)
       * [Dokumentation](3d-druck/ender/ender-3-s1-pro-plus/dokumentation/README.md)
