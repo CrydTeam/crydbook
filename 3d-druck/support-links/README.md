@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1579208570378-8c970854bc23?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxzdXBwb3J0fGVufDB8fHx8MTY2NDIyMjE2Nw&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # Support Links
 
 Mit diesen Ref Links kannst du wie gewohnt über Amazon und AliExpress shoppen und hast keine Mehrkosten unterstütz aber den Kanal !
