@@ -4,7 +4,7 @@ description: >-
   uns zu unterstützen.
 ---
 
-# Cryd Hardware
+# Ersatzteile, Werkzeuge und Zubehör
 
 Drucker Ersatzteile und Zubehör Allgemein&#x20;
 
@@ -21,6 +21,7 @@ Drucker Ersatzteile und Zubehör Allgemein&#x20;
 
 Drucker Ersatzteile und Zubehör Anycubic Vyper
 
+* [Druckkopf Hauptkabel Version C](https://www.3dprima.com/de/ersatzteile-zubehoer/hersteller/anycubic/anycubic-vyper-print-head-connection-cable/a-26731/?ReferrerID=13\&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGjWVyTzLremFbQFbsDACdqVBTeKw-ARrHgt7JZJ9\_JFDuaBjRnFfdxoCbqwQAvD\_BwE)
 * [Hotend Socke Volcano Heatblock ](https://amzn.to/3wE0xy0)
 * [Nozzle Messing](https://amzn.to/3LKERVC)
 * [Nozzle Premium Mikro Swiss](https://amzn.to/3UDAJw9)
