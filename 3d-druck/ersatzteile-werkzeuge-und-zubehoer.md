@@ -11,6 +11,7 @@ coverY: 76.30576713819369
 Drucker Ersatzteile und Zubehör Allgemein&#x20;
 
 * [ADXL Sensor (Version zur Cryd Doku)](https://arduino-projekte.info/produkt/gy-291-adxl345-3-achsen-gyroskop-beschleunigungssensor/)
+* [ADXL Sensor mit USB Anschluss](https://lab4450.com/product/ksuba-adxl345/)
 * [BLTouch Low Budget](https://amzn.to/3fiNNaa)
 * [BLTouch Premium](https://amzn.to/3LHxJKZ)
 * [Bowden Schlauch Set](https://amzn.to/3BNtk4G)
