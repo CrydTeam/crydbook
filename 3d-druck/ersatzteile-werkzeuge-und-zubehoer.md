@@ -17,6 +17,8 @@ Drucker Ersatzteile und Zubehör Allgemein&#x20;
 * [Bowden Schlauch Set](https://amzn.to/3BNtk4G)
 * [Druckerkabel mit guter Schirmung USB-A auf USB-B](https://amzn.to/3UyPMax)
 * [Filament Sensor BTT](https://amzn.to/3AJ0LXp)
+* [Kugellager für Linearschienen MGN9](https://www.kugel-winnie.de/epages/62136757.sf/sece0e5ed3a63/?ObjectPath=/Shops/62136757/Products/010101128)
+* [Kugellager für Linearschienen MGN12](https://www.kugel-winnie.de/epages/62136757.sf/sece0e5ed3a63/?ObjectPath=/Shops/62136757/Products/010101043)
 * [Nozzle Bürste Messing](https://amzn.to/3MQLEhu)
 * [Schraubensicherung](https://amzn.to/3dIOBo4)
 * [Spindelfett](https://amzn.to/3UwNrN4)
@@ -26,17 +28,15 @@ Drucker Ersatzteile und Zubehör Anycubic Vyper
 
 * [Druckkopf Hauptkabel Version C](https://www.3dprima.com/de/ersatzteile-zubehoer/hersteller/anycubic/anycubic-vyper-print-head-connection-cable/a-26731/?ReferrerID=13\&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGjWVyTzLremFbQFbsDACdqVBTeKw-ARrHgt7JZJ9\_JFDuaBjRnFfdxoCbqwQAvD\_BwE)
 * [Hotend Socke Volcano Heatblock ](https://amzn.to/3wE0xy0)
-* [Vyper Extended Mainboard Stock Toolhead (makerPanda) (Coupon: CRYDTEAM (-8 USD))](https://a.aliexpress.com/\_uABElR)
-* [Vyper Extended Mainboard Stealthburner Toolhead (makerPanda)](https://a.aliexpress.com/\_v14q39)
-* [Vyper Extended Stealthburner Mod Hardware Kit (makerPanda)](https://a.aliexpress.com/\_uyVB2q)
+* [Vyper Extended Mainboard Stock Toolhead (MakerPanda) (Coupon: CRYDTEAM (-8 USD))](https://a.aliexpress.com/\_uABElR)
+* [Vyper Extended Mainboard Stealthburner Toolhead (MakerPanda)](https://a.aliexpress.com/\_v14q39)
+* [Vyper Extended Stealthburner Mod Hardware Kit (MakerPanda)](https://a.aliexpress.com/\_uyVB2q)
 * [Vyper Extended Stealthburner Mod Full Kit (Blurolls)](https://a.aliexpress.com/\_ugtU5h)
 * [Nozzle Messing](https://amzn.to/3LKERVC)
 * [Nozzle Premium Mikro Swiss](https://amzn.to/3UDAJw9)
 
 Drucker Ersatzteile und Zubehör Voron&#x20;
 
-* [Kugellager für Linearschienen MGN9](https://www.kugel-winnie.de/epages/62136757.sf/sece0e5ed3a63/?ObjectPath=/Shops/62136757/Products/010101128)
-* [Kugellager für Linearschienen MGN12](https://www.kugel-winnie.de/epages/62136757.sf/sece0e5ed3a63/?ObjectPath=/Shops/62136757/Products/010101043)
 * [Nozzle Phaetus Hardened Steel 0,4mm](https://amzn.to/3SwAZLt)
 
 
