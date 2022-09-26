@@ -3,8 +3,8 @@ description: >-
   Hier findet Ihr ein paar Vorschläge von uns. Benutzt gerne unsere Links, um
   uns zu unterstützen.
 cover: >-
-  https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxoYW1tZXJ8ZW58MHx8fHwxNjY0MjIzMTA3&ixlib=rb-1.2.1&q=80
-coverY: 282.0457018498368
+  https://images.unsplash.com/photo-1581166397057-235af2b3c6dd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHx0b29sc3xlbnwwfHx8fDE2NjQyMTcxNzk&ixlib=rb-1.2.1&q=80
+coverY: -1268.7224669603524
 ---
 
 # Ersatzteile, Werkzeuge und Zubehör
