@@ -10,7 +10,7 @@ coverY: 76.30576713819369
 
 <details>
 
-<summary>Drucker Ersatzteile und Zubehör Allgemein </summary>
+<summary>Allgemein - Ersatzteile und Zubehör</summary>
 
 * [ADXL Sensor (Version zur Cryd Doku)](https://arduino-projekte.info/produkt/gy-291-adxl345-3-achsen-gyroskop-beschleunigungssensor/)
 * [ADXL Sensor mit USB Anschluss](https://lab4450.com/product/ksuba-adxl345/)
@@ -26,11 +26,11 @@ coverY: 76.30576713819369
 * [Spindelfett](https://amzn.to/3UwNrN4)
 * [Zahnriemen Turmberg3D GT2 2m x 6mm](https://amzn.to/3MQLdDS)
 
-
-
 </details>
 
-Drucker Ersatzteile und Zubehör Anycubic Vyper
+<details>
+
+<summary>Anycubic Vyper - Ersatzteile und Zubehör</summary>
 
 * [Druckkopf Hauptkabel Version C](https://www.3dprima.com/de/ersatzteile-zubehoer/hersteller/anycubic/anycubic-vyper-print-head-connection-cable/a-26731/?ReferrerID=13\&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGjWVyTzLremFbQFbsDACdqVBTeKw-ARrHgt7JZJ9\_JFDuaBjRnFfdxoCbqwQAvD\_BwE)
 * [Hotend Socke Volcano Heatblock ](https://amzn.to/3wE0xy0)
@@ -41,13 +41,19 @@ Drucker Ersatzteile und Zubehör Anycubic Vyper
 * [Nozzle Messing](https://amzn.to/3LKERVC)
 * [Nozzle Premium Mikro Swiss](https://amzn.to/3UDAJw9)
 
-Drucker Ersatzteile und Zubehör Voron&#x20;
+</details>
+
+<details>
+
+<summary>Voron - Ersatzteile und Zubehör</summary>
 
 * [Nozzle Phaetus Hardened Steel 0,4mm](https://amzn.to/3SwAZLt)
 
+</details>
 
+<details>
 
-Werkzeuge, Crimpzubehör und Überwachung
+<summary>Werkzeuge, Crimpzubehör und Überwachung</summary>
 
 * [Bügelmessschraube Low Budget](https://amzn.to/3xSPDVA)
 * [Bügelmessschraube Premium](https://amzn.to/3SzbbOK)
@@ -62,3 +68,5 @@ Werkzeuge, Crimpzubehör und Überwachung
 * [Messschieber Low Budget](https://amzn.to/3SC4ITv)
 * [Messschieber Premium](https://amzn.to/3fmNvPD)
 * [Raspberry PI Jumperkabel (Dupont)](https://amzn.to/3LJHqsv)
+
+</details>
