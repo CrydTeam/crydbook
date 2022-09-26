@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1563770660941-20978e870e26?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8aGFyZHdhcmV8ZW58MHx8fHwxNjY0MjIyMTMx&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # Meine Hardware
 
 
@@ -14,9 +20,13 @@ Heizungsthermostate [Aqara (Zigbee)](https://amzn.to/3C8ysSf) / [FritzDect ](htt
 
 [Pflanz Sensor ](https://amzn.to/3REtxgR)
 
+
+
 Fenster Sensoren von Aqara:&#x20;
 
 [Aliexpress](https://s.click.aliexpress.com/e/\_DlPqucx) - [Amazon  ](https://amzn.to/3wQIogI)&#x20;
+
+
 
 [Meine Empfehlung](https://amzn.to/3DX9B5h) oder die Alternativ [Haustür Klingel mit Cam ](https://amzn.to/3mdLTYE)
 
