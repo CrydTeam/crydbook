@@ -2,7 +2,6 @@
 description: >-
   hier gibts ein paar Anregungen und ggf. auch bald ein Anleitungsvideo falls es
   euch interessiert
-layout: landing
 ---
 
 # Dashboard Design
