@@ -4,9 +4,11 @@ description: wir verwenden hier eine Mushroom Template Card
 
 # Room Card
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Raumverlinkung incl. Farbwechsel und Statusanzeige</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 Icon Farbe basierend auf Gruppenstatus (alle Lichter und Geräte als Helfer kombiniert)
+{% endhint %}
 
 ```
 {% raw %}
@@ -16,10 +18,14 @@ Icon Farbe basierend auf Gruppenstatus (alle Lichter und Geräte als Helfer komb
 {% endraw %}
 ```
 
+
+
+{% hint style="info" %}
 Raumstatus anzeige - Temperatur und Luftfeuchtigkeit:
+{% endhint %}
 
 ```
 {{ states('sensor.STATUS_1') }} °C / {{ states('sensor.STATUS_2') }} % 
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>

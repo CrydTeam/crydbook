@@ -6,6 +6,10 @@ description: wir verwenden hier eine Mushroom Template Card
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>individuelle Statusanzeige und Einfärbung</p></figcaption></figure>
 
+{% hint style="info" %}
+Mit diesem Code kann eine einfache Einfärbung der Template Card bei Status "on" hinterlegt werden.
+{% endhint %}
+
 ```
 {% raw %}
 {% if is_state('switch.alle_gerate_ohne_3d_drucker', 'on') %}
@@ -14,7 +18,13 @@ description: wir verwenden hier eine Mushroom Template Card
 {% endraw %}
 ```
 
-Mit diesem Code kann eine einfache Einfärbung der Template Card bei Status "on" hinterlegt werden.
+
+
+
+
+{% hint style="info" %}
+Hiermit könnt ihr aus "on" ein einfaches "An" bzw. "Aus" generieren (z.B. on = offen / off = geschlossen)
+{% endhint %}
 
 ```
 {% raw %}
@@ -25,8 +35,6 @@ Mit diesem Code kann eine einfache Einfärbung der Template Card bei Status "on"
 {% endif %}
 {% endraw %}
 ```
-
-Hiermit könnt ihr aus "on" ein einfaches "An" bzw. "Aus" generieren (z.B. on = offen / off = geschlossen)
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
