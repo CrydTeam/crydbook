@@ -2,7 +2,6 @@
 cover: >-
   https://images.unsplash.com/photo-1563770660941-20978e870e26?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8aGFyZHdhcmV8ZW58MHx8fHwxNjY0MjIyMTMx&ixlib=rb-1.2.1&q=80
 coverY: 0
-layout: landing
 ---
 
 # Meine Hardware

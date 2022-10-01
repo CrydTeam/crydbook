@@ -5,7 +5,7 @@ coverY: 0
 
 # Phasen kombinieren
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 ich benutze [dieses Modell](https://amzn.to/3RE9mQd)
 

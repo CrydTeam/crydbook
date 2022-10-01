@@ -18,4 +18,4 @@ als Topics gibt es unsere Kategorien:&#x20;
 
 unter dem Post findet ihr die dementsprechenden Icons die ihr anklicken könnt um die Kategorie zu aktivieren.
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption><p>hier anklicken was ihr sehen wollt</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (2).png" alt=""><figcaption><p>hier anklicken was ihr sehen wollt</p></figcaption></figure>
