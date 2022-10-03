@@ -170,6 +170,6 @@
       * [On/Off Card](smarthome-via-home-assistant/dashboard-design/templating/on-off-card.md)
   * [Meine Hardware](smarthome-via-home-assistant/meine-hardware.md)
   * [Support Links](smarthome-via-home-assistant/support-links.md)
-* [Spendenlink](spendenlink.md)
+* [Spendenlink](https://streamelements.com/crydteam/tip)
 * [Kontaktformular](kontaktformular.md)
 * [Impressum](impressum.md)
