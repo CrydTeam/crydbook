@@ -4,7 +4,7 @@ description: was brauche ich dafür alles?
 
 # Hardware
 
-[NodeMCU](https://amzn.to/3eY56ge)
+[NodeMCU](https://amzn.to/3eY56ge) (ESP8266 CP2102 NodeMcu)
 
 [Netzteil](https://amzn.to/3Lj7daN)
 
