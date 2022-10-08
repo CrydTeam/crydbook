@@ -6,8 +6,19 @@ description: Was ist Z-Tilt und Quad Gantry Level (QGL)
 
 Hier zeige ich euch kurz, was genau die oben genannten Kommandos machen und was der Zweck davon ist.\
 \
+Kurz gesagt gleicht das Ztilt (Für 2 Z-Motoren) und das Quad Gantry Level (4 Motoren) doe Lage der "Gantry" oder auch X Führung des Druckkopfes aus.\
+\
+Es werden meist die äußeren Punkte des Druckbettes angefahren und so die Achse parallel zum Bett gestellt.\
+\
+\
+\
 
 
-\<u>Klipper Dokumentation:\</u>
+{% hint style="warning" %}
+Wichtig: \
+Das Druckbett sollte vorher schon parallel zum Gestell oder Boden stehen.
+{% endhint %}
+
+**Klipper Dokumentation:**
 
 {% embed url="https://www.klipper3d.org/Config_Reference.html?h=quad#quad_gantry_level" %}
