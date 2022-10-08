@@ -12,7 +12,7 @@ description: >-
 Macht einen Sensor nach dem anderen sonst kommt man schnell durcheinander
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>ABSENDEN drücken und der Sensor ist angelegt</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>ABSENDEN drücken und der Sensor ist angelegt</p></figcaption></figure>
 
 Jetzt nur noch die Sensoren in der Plant.yaml anlegen
 
