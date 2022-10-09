@@ -24,6 +24,15 @@ Die Hautpgruppe ist der "Filamentwechsler" auch <mark style="color:orange;">**Ca
 
 a![](../../../../../.gitbook/assets/carrot\_patch.jpg)
 
+## Weitere Infos
+
+Alle weiteren Infos bitten wir aus dem Github oder unseren Videos zu entnehmen.\
+Habt ihr dennoch Fragen, schaut doch gerne auf dem Discord vorbei.\
+\
+
+
+
+
 
 
 
