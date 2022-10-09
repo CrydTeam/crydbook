@@ -27,7 +27,7 @@ a![](../../../../../.gitbook/assets/carrot\_patch.jpg)
 ## Weitere Infos
 
 Alle weiteren Infos bitten wir aus dem Github oder unseren Videos zu entnehmen.\
-Habt ihr dennoch Fragen, schaut doch gerne auf dem Discord vorbei.\
+Habt ihr dennoch Fragen, schaut doch gerne auf dem [Discord](https://discord.gg/2vEVdejeBZ) vorbei.\
 \
 
 
