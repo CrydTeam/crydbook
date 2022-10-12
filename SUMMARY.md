@@ -11,6 +11,7 @@
             * [Hardware](3d-druck/hersteller-marken-modelle/anycubic/readme/modifications/bed-mod/hardware.md)
             * [Umsetzungsmöglichkeiten](3d-druck/hersteller-marken-modelle/anycubic/readme/modifications/bed-mod/umsetzungsmoeglichkeiten.md)
             * [Einbau](3d-druck/hersteller-marken-modelle/anycubic/readme/modifications/bed-mod/einbau/README.md)
+              * [Schablone Vyper Silikonpuffer](3d-druck/hersteller-marken-modelle/anycubic/readme/modifications/bed-mod/einbau/schablone-vyper-silikonpuffer.md)
               * [Löcher ausstanzen](3d-druck/hersteller-marken-modelle/anycubic/readme/modifications/bed-mod/einbau/loecher-ausstanzen.md)
               * [Silkondämpfer einsetzten](3d-druck/hersteller-marken-modelle/anycubic/readme/modifications/bed-mod/einbau/silkondaempfer-einsetzten.md)
             * [Schrauben einstellen](3d-druck/hersteller-marken-modelle/anycubic/readme/modifications/bed-mod/schrauben-einstellen/README.md)
