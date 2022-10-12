@@ -72,3 +72,33 @@ coverY: -1268.7224669603524
 * [Raspberry PI Jumperkabel (Dupont)](https://amzn.to/3LJHqsv)
 
 </details>
+
+<details>
+
+<summary>Schraubenhändlerliste</summary>
+
+\- [https://www.screwsandmore.de/](https://www.screwsandmore.de/)&#x20;
+
+\- [http://schrauben-niro.de/](http://schrauben-niro.de/)&#x20;
+
+\- [https://schrauben-expert.de/Screws](https://schrauben-expert.de/Screws)&#x20;
+
+\- [https://www.schraubenking-shop.de/](https://www.schraubenking-shop.de/)&#x20;
+
+\- [https://www.frantos.com/de/](https://www.frantos.com/de/)&#x20;
+
+\- [https://www.schraubenluchs.de/BEFESTIGUNGSTECHNIK](https://www.schraubenluchs.de/BEFESTIGUNGSTECHNIK)&#x20;
+
+\- [https://www.rosentaler-schrauben.de/Schrauben---3063.html](https://www.rosentaler-schrauben.de/Schrauben---3063.html)&#x20;
+
+\- [https://www.schraubenkasten.de/](https://www.schraubenkasten.de/)&#x20;
+
+\- [https://online-schrauben.de/shop/](https://online-schrauben.de/shop/)&#x20;
+
+\- [https://minischrauben.com/](https://minischrauben.com/)&#x20;
+
+\- [https://rc-schrauben.de/](https://rc-schrauben.de/)&#x20;
+
+\- [https://www.schrauben-steinhauer.de/](https://www.schrauben-steinhauer.de/)
+
+</details>
