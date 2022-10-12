@@ -76,6 +76,7 @@
           * [Pinouts](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/pinouts/README.md)
             * [BTT Octopus](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/pinouts/btt-octopus.md)
             * [PCB Verbidnung](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/pinouts/pcb-verbidnung.md)
+          * [Motorenanordnung](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/motorenanordnung.md)
   * [Crydteam Configs](crydteam-configs.md)
   * [FAQ](3d-druck/faq/README.md)
     * [Fehlermeldungen Konsole](3d-druck/faq/klipper-mainsail-moonraker/fehlermeldungen-konsole/README.md)
