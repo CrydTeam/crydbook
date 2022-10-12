@@ -73,6 +73,7 @@
         * [Configs](3d-druck/hersteller-marken-modelle/voron/voron-2.4/configs.md)
         * [Super Slicer Profile](3d-druck/hersteller-marken-modelle/voron/voron-2.4/super-slicer-profile.md)
         * [Dokumentation](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/README.md)
+          * [Ganty Entspannen](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/ganty-entspannen.md)
           * [Firmware über Pi Flashen & PiMCU](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/firmware-ueber-pi-flashen-and-pimcu.md)
           * [CW 2 Motor List](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/cw-2-motor-list.md)
           * [Pinouts](3d-druck/hersteller-marken-modelle/voron/voron-2.4/dokumentation/pinouts/README.md)
