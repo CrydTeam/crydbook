@@ -18,7 +18,8 @@ _●_ 4 -12 Silikondämpfer\
 * Für Sparfüchse: 1x [AIEX 8 Stück 3D Drucker Silikon Nivelliersäule](https://amzn.to/39nxIgM)
 
 {% hint style="info" %}
-Achtung: die Dämpfer müssen zugeschnitten werden.
+[Achtung: die Dämpfer müssen zugeschnitten werden.\
+Link zur Schnitthilfe](https://www.printables.com/de/model/225620-cutting-tool-fur-vyper-silikon-dampfer)
 {% endhint %}
 
 
