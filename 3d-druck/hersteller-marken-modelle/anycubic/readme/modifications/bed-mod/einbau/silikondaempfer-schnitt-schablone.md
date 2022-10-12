@@ -1,4 +1,4 @@
-# Silikondämpfer Schablone
+# Silikondämpfer Schnitt Schablone
 
 Hier findet ihr die Schablone, um die Silikondämpfer / Silikonpuffer zurechtschneiden zu können.
 

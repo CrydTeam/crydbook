@@ -7,3 +7,5 @@ Hier ist nochmal das PDF vom stand 08.06.2022\
 
 
 {% file src="../../.gitbook/assets/MainsailOS-Klipper-Install-Reference.pdf" %}
+
+> Handbuch, Übersetzung, Klipper Deutsch
