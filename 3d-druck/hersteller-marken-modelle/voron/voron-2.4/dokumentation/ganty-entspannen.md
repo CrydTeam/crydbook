@@ -36,7 +36,18 @@ Löse die an den Stellen markierten M5 Schrauben. (Denk auch an die unteren)\
 Danach wackele etwas an dem Frameteil und bewege die Gantry mehrfach vor und zurück.\
 Wenn sich die Gantry gut und "leicht" bewegen lässt, drehe eine der Schraube leicht fest.![](../../../../../.gitbook/assets/hintere\_x\_loesen.PNG)
 
-### 3. Gantry entspannen&#x20;
+### 3. Gantry auf "Verkantung / racking" kontrollieren
+
+<figure><img src="../../../../../.gitbook/assets/Gantry_verkantet.PNG" alt=""><figcaption><p>Quelle Youtube Nero 3D - "Solving Gantry Racking"</p></figcaption></figure>
+
+Wenn du wie hier im Bild einen Spalt auf einen der beiden Seiten entdeckst ist deine Gatry verkantet. Um dies zu beheben, musst du die in blau markierten Schrauben lösen.&#x20;
+
+{% hint style="info" %}
+_Denke auch hier bitte an die unteren Schrauben_&#x20;
+{% endhint %}
+
+\
+
 
 An allen Gantry Extrusions kräftig wackeln. Gerne auch etwas drehen, sodass sich sämtliche Spannungen lösen können. Das Material kennt dann schon den Weg.&#x20;
 
