@@ -19,24 +19,28 @@ __
 
 ### _2. Riemen entspannen_
 
-Stelle den Druckkopf mittig und entspannte die X und Y Riemen über die dementsprechenden Spanner. Ggf. sogar die Klemmung an der X-Gantry auf einer Seite lösen und die Riemen ein Stück ausziehen. Am allerbesten ist natürlich eine komplette Herausnahme der Riemen.\
+Stelle den Druckkopf mittig und entspannte die X und Y Riemen über die dementsprechenden Spanner. Ggf. sogar die Klemmung an der X-Gantry auf einer Seite lösen und die Riemen ein Stück rausziehen. Am allerbesten ist natürlich eine komplette Herausnahme der Riemen.\
 ![](../../../../../.gitbook/assets/riemen\_enstpannen.PNG)
 
 
 
 ### _3. Gantry in der Höhe ausrichten:_
 
-Richte die Gantry in allen vier Z-Position in identischer Höhe aus. Dazu kannst du Gerne ein Zollstock oder Lineal nehmen. Es sollte etwas starres sein.\
+Richte die Gantry in allen vier Z-Position in identischer Höhe aus. Dazu kannst du gerne ein Zollstock oder Lineal nehmen. Es sollte ein starres Messmittel sein.\
 
 
 ![](../../../../../.gitbook/assets/Gantry\_hoehe.PNG)\
 
 
-### 2. Entspannen des "starren" Frames
+### 2. Entspannen des hinteren Frames
 
-Löse die an den Stellen markierten M5 Schrauben. (Denk auch an die unteren)\
+Löse die an den Stellen markierten M5 Schrauben. \
 Danach wackele etwas an dem Frameteil und bewege die Gantry mehrfach vor und zurück.\
 Wenn sich die Gantry gut und "leicht" bewegen lässt, drehe eine der Schraube leicht fest.![](../../../../../.gitbook/assets/hintere\_x\_loesen.PNG)
+
+{% hint style="info" %}
+Untere Schrauben nicht vergessen.
+{% endhint %}
 
 ### 3. Gantry auf "Verkantung / racking" kontrollieren
 
@@ -121,3 +125,5 @@ Dabei sollte sich der Kopf kaum bis eigentlich gar nicht nach links und rechts b
 {% embed url="https://www.youtube.com/watch?v=cOn6u9kXvy0" %}
 Quelle Youtube Nero 3D - "Solving Gantry Racking"
 {% endembed %}
+
+[Voron 2.4 Manual ](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/Manual)
