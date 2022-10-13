@@ -1,14 +1,14 @@
 ---
-description: Gantry DEracking am Voron V2.4
+description: Gantry de-racking am Voron V2.4
 cover: ../../../../../.gitbook/assets/voron_rob_2.4_1.jpg
-coverY: 0
+coverY: 128.0286343612335
 ---
 
 # Ganty Entspannen / Deracken
 
 ## Wie entspanne (deracke) ich die Gantry vom Voron 2.4
 
-Quelle: [Voron Discord Chriss V0.518 V2.2007 RRF](https://discord.com/channels/460117602945990666/460819549202284553/898503103182155776)
+Quelle: [Quelle Youtube Nero 3D - "Solving Gantry Racking"](https://www.youtube.com/watch?v=cOn6u9kXvy0)
 
 ### 1. Aufheizen:
 
