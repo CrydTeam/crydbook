@@ -13,9 +13,16 @@ Quelle: [Voron Discord Chriss V0.518 V2.2007 RRF](https://discord.com/channels/4
 Heize deinen Drucker über einen längeren Zeitraum (\~2h) über das Heizbett auf. Deaktiviere dabei den Exhaust Fan, sodass keine Luft rausgezogen wird.\
 _Wenn ein Nevermore vorhanden ist, kann dieser zur Luftumwälzung gerne eingesetzt werden_
 
+__
+
+### _2. Riemen entspannen_
+
+Entspannte die X und Y Riemen über die dementsprechenden Spanner. GGF Sogar die Klemmung an der X-Gantry auf einer Seite lösen und die Riemen ein Stück ausziehen. Am allerbesten ist natürlich eine komplette Herausnahme der Riemen.\
+![](../../../../../.gitbook/assets/riemen\_enstpannen.PNG)
 
 
-### _2. Gantry in der Höhe ausrichten:_
+
+### _3. Gantry in der Höhe ausrichten:_
 
 Richte die Gantry in allen vier Z-Position in identischer Höhe aus. Dazu kannst du Gerne ein Zollstock oder Lineal nehmen. Es sollte etwas starres sein.\
 
@@ -23,12 +30,11 @@ Richte die Gantry in allen vier Z-Position in identischer Höhe aus. Dazu kannst
 ![](../../../../../.gitbook/assets/Gantry\_hoehe.PNG)\
 
 
-### 2. Schrauben lösen:
+### 2. Entspannen des "starren" Frames
 
-Löse alle M5 Schrauben, welche die x Extrusion an der X/Y Join2 halten. Etwa 2-3 Umdrehung\
-_<mark style="background-color:orange;">Die unteren Schrauben nicht vergessen</mark>_
-
-<figure><img src="../../../../../.gitbook/assets/X_Y_Joins_V2.4_lösen.PNG" alt=""><figcaption><p><em>Quelle Voron Manual V2.4r2</em></p></figcaption></figure>
+Löse die an den Stellen markierten M5 Schrauben. (Denk auch an die unteren)\
+Danach wackele etwas an dem Frameteil und bewege die Gantry mehrfach vor und zurück.\
+Wenn sich die Gantry gut und "leicht" bewegen lässt, drehe eine der Schraube leicht fest.![](../../../../../.gitbook/assets/hintere\_x\_loesen.PNG)
 
 ### 3. Gantry entspannen&#x20;
 
