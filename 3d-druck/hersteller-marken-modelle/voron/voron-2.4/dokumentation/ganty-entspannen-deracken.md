@@ -2,7 +2,7 @@
 description: Gantry DEracking am Voron V2.4
 ---
 
-# Ganty Entspannen
+# Ganty Entspannen / Deracken
 
 ## Wie entspanne (deracke) ich die Gantry vom Voron 2.4
 
@@ -46,6 +46,11 @@ Wenn du wie hier im Bild einen Spalt auf einen der beiden Seiten entdeckst ist d
 _Denke auch hier bitte an die unteren Schrauben_&#x20;
 {% endhint %}
 
+### 4. Verkantung lösen
+
+Bewege die Gantry in gegensätzlicher Richtung einfach und her. Du kannst auch gerne mal dran rütteln.
+
+&#x20;![](../../../../../.gitbook/assets/derack\_g.PNG)\
 \
 
 
