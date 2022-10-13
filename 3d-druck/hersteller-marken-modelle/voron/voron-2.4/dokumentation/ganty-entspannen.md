@@ -48,10 +48,13 @@ _Denke auch hier bitte an die unteren Schrauben_&#x20;
 
 ### 4. Verkantung lösen
 
-Bewege die Gantry in gegensätzlicher Richtung einfach und her. Du kannst auch gerne mal dran rütteln.
-
-&#x20;![](../../../../../.gitbook/assets/derack\_g.PNG)\
+Bewege die Gantry in gegensätzlicher Richtung einfach und her. Du kannst auch gerne mal dran rütteln.\
+&#x20;![](../../../../../.gitbook/assets/derack\_g.PNG)1\
+Wenn du das getan hast ziehe die Gantry wieder nach vorne zu dir. Hast du immer noch ein Spalt wieder etwas wackeln. Dies machst du so lange, bis du keinen Spalt mehr hast.\
 \
+Hast du es vorne gut ausgerichtet fahre die Gantry auch mal ganz nach hinten und überprüfe dort ebenfalls auch einen Spalt. Wenn einer vorhanden ist, weißt du ja was zu tun ist. \
+\
+Alles so lange Wiederholen bis vorne und hinten für dich perfekt sind.\
 
 
 An allen Gantry Extrusions kräftig wackeln. Gerne auch etwas drehen, sodass sich sämtliche Spannungen lösen können. Das Material kennt dann schon den Weg.&#x20;
