@@ -54,21 +54,16 @@ _Denke auch hier bitte an die unteren Schrauben_&#x20;
 
 ### 4. Verkantung lösen
 
-Bewege die Gantry in gegensätzlicher Richtung einfach und her. Du kannst auch gerne mal dran rütteln.\
+Bewege die Gantry in gegensätzlicher Richtung einfach hin und her. Du kannst auch gerne mal dran rütteln.\
 &#x20;![](../../../../../.gitbook/assets/derack\_g.PNG)1\
-Wenn du das getan hast ziehe die Gantry wieder nach vorne zu dir. Hast du immer noch ein Spalt wieder etwas wackeln. Dies machst du so lange, bis du keinen Spalt mehr hast.\
+Wenn du das getan hast, ziehe die Gantry wieder nach vorne zu dir. Hast du immer noch ein Spalt wieder etwas wackeln. Dies machst du so lange, bis du keinen Spalt mehr hast.\
 \
-Hast du es vorne gut ausgerichtet fahre die Gantry auch mal ganz nach hinten und überprüfe dort ebenfalls auch einen Spalt. Wenn einer vorhanden ist, weißt du ja was zu tun ist. \
+Hast du es vorne gut ausgerichtet fahre die Gantry auch mal ganz nach hinten und überprüfe dort ebenfalls auf einen Spalt. Wenn einer vorhanden ist, weißt du ja was zu tun ist. \
 \
 Alles so lange Wiederholen bis vorne und hinten für dich perfekt sind.\
-
-
-An allen Gantry Extrusions kräftig wackeln. Gerne auch etwas drehen, sodass sich sämtliche Spannungen lösen können. Das Material kennt dann schon den Weg.&#x20;
-
-Nach dem "Freiwackeln" Schrauben natürlich nach jeder Extrusion wieder anziehen. \
 __
 
-### 5. Schrauben wieder festziehen.
+### 5. Schrauben festziehen.
 
 Hast du jetzt deine Gantry schön ausgerichtet ziehe bitte auf jeder Seite erstmal eine Schraube handfest an und bewege nochmals zur Kontrolle die Gantry mehrfach vor und zurück.![](../../../../../.gitbook/assets/gantry\_schrauben\_anziehen.PNG)
 
@@ -86,7 +81,7 @@ Du solltst ebenfalls die Y-Frame auf "Bündigkeit" überprüfen
 
 <figure><img src="../../../../../.gitbook/assets/racking_hintere_achse.PNG" alt=""><figcaption><p>Quelle Youtube Nero 3D - "Solving Gantry Racking"</p></figcaption></figure>
 
-Sind diese nicht bündig solltest die in grün markierten Schrauben auf beiden Seiten lösen und ausrichten.
+Sind diese nicht bündig solltest die in grün markierten Schrauben auf beiden Seiten sowie unterhalb lösen und ausrichten.
 
 
 
@@ -94,24 +89,27 @@ Sind diese nicht bündig solltest die in grün markierten Schrauben auf beiden S
 
 Du könntest ebenfalls noch deine Linearführung kontrollieren
 
-Hierzu das Hotend ganz nach rechts und dann von links anfangen die Schrauben bis leicht über die Mitte zu lösen.&#x20;
+Hierzu das Hotend ganz nach rechts und dann von links anfangen die Schrauben zu lösen.&#x20;
 
 Am Hotend und der Rail wackeln und von innen nach außen anziehen. \
+\
+Als schönen Beobachtungspunkt könnt ihr die beiden Pully (Umlenkungen) rechts und links verwenden, um zu beobachten, ob sich der Riemen hoch oder runter auf dem Pully bewegt. Ist dies der Fall, solltet ihr die Rail nochmals auf gleichmäßige Ausrichtung kontrollieren.\
 \
 (_Hier kann zur Rail Ausrichtung gerne folgende STL verwendet werden_ [_MGN12_](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/MGN12\_rail\_guide\_x2.stl) _/_ [_MGN9_](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/MGN9\_rail\_guide\_x2.stl)_.)_
 
 <figure><img src="../../../../../.gitbook/assets/X_Rail_V2.4.PNG" alt=""><figcaption><p><em>Quelle Voron Manual V2.4r2</em></p></figcaption></figure>
 
 {% hint style="info" %}
-Typischer Hausmannsfehler ist hier auch das "anzerren" einfach handfest reicht
+Ihr solltet hier das Rail handfest anziehen. Rails müssen nicht "angeknallt" werden.
 {% endhint %}
 
 
 
 ### 7. Riemen wieder spannen
 
-Hast du alles perfekt ausgerichtet, solltest du deine Riemen wieder spannen. Dies macht jeder auf seine Weise und in diese Guide gehen wir hier nicht näher darauf ein. \
-Sind deine Riemen nun wieder gespannt fahre den Druckkopf mittig und bewege die Gantry vor und zurück.\
+Hast du alles perfekt ausgerichtet, solltest du deine Riemen wieder spannen. Dies macht jeder auf seine Art und Weise. In diese Guide gehen wir hier nicht näher darauf ein. \
+\
+Sind deine Riemen nun wieder gespannt, fahre den Druckkopf mittig und bewege die Gantry vor und zurück.\
 Dabei sollte sich der Kopf kaum bis eigentlich gar nicht nach links und rechts bewegen.\
 \
 
