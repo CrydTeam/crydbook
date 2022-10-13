@@ -17,7 +17,7 @@ __
 
 ### _2. Riemen entspannen_
 
-Entspannte die X und Y Riemen über die dementsprechenden Spanner. GGF Sogar die Klemmung an der X-Gantry auf einer Seite lösen und die Riemen ein Stück ausziehen. Am allerbesten ist natürlich eine komplette Herausnahme der Riemen.\
+Stelle den Druckkopf mittig und entspannte die X und Y Riemen über die dementsprechenden Spanner. GGF Sogar die Klemmung an der X-Gantry auf einer Seite lösen und die Riemen ein Stück ausziehen. Am allerbesten ist natürlich eine komplette Herausnahme der Riemen.\
 ![](../../../../../.gitbook/assets/riemen\_enstpannen.PNG)
 
 
@@ -62,10 +62,33 @@ An allen Gantry Extrusions kräftig wackeln. Gerne auch etwas drehen, sodass sic
 Nach dem "Freiwackeln" Schrauben natürlich nach jeder Extrusion wieder anziehen. \
 __
 
-### 4. Linearführungen _X Gantry_ entspannen:
+### 5. Schrauben wieder festziehen.
 
-Das gleiche dann mit den Linearführungen. \
-Hotend ganz nach rechts und dann von links anfangen die Schrauben bis leicht über die Mitte zu lösen.&#x20;
+Hast du jetzt deine Gantry schön ausgerichtet ziehe bitte auf jeder Seite erstmal eine Schraube handfest an und bewege nochmals zur Kontrolle die Gantry mehrfach vor und zurück.![](../../../../../.gitbook/assets/gantry\_schrauben\_anziehen.PNG)
+
+Läuft alles zufriedenstellend kannst du alle Schrauben (auch die unteren und die des starren X-Frames) festziehen. Immer daran denken. Nach zu kommt ab.
+
+
+
+### 6. Optionale Kontrollen
+
+#### Y-Frame Ausrichten
+
+Du solltst ebenfalls die Y-Frame auf "Bündigkeit" überprüfen
+
+
+
+<figure><img src="../../../../../.gitbook/assets/racking_hintere_achse.PNG" alt=""><figcaption><p>Quelle Youtube Nero 3D - "Solving Gantry Racking"</p></figcaption></figure>
+
+Sind diese nicht bündig solltest die in grün markierten Schrauben auf beiden Seiten lösen und ausrichten.
+
+
+
+#### Linearführungen _X Gantry_ entspannen:
+
+Du könntest ebenfalls noch deine Linearführung kontrollieren
+
+Hierzu das Hotend ganz nach rechts und dann von links anfangen die Schrauben bis leicht über die Mitte zu lösen.&#x20;
 
 Am Hotend und der Rail wackeln und von innen nach außen anziehen. \
 \
@@ -79,4 +102,20 @@ Typischer Hausmannsfehler ist hier auch das "anzerren" einfach handfest reicht
 
 
 
-#### &#x20;6: Diese Enspannen dann auch jeder Achse. Mit ner Stunde Arbeit kriegste nen 350er locker unter 5 hundertstel, min zu max.
+### 7. Riemen wieder spannen
+
+Hast du alles perfekt ausgerichtet, solltest du deine Riemen wieder spannen. Dies macht jeder auf seine Weise und in diese Guide gehen wir hier nicht näher darauf ein. \
+Sind deine Riemen nun wieder gespannt fahre den Druckkopf mittig und bewege die Gantry vor und zurück.\
+Dabei sollte sich der Kopf kaum bis eigentlich gar nicht nach links und rechts bewegen.\
+\
+
+
+### Wir hoffen dass du nun bessere Druckergebnisse erzielen kannst.
+
+[C_rydteam_](https://www.youtube.com/c/Crydteam)__
+
+## Quellen:
+
+{% embed url="https://www.youtube.com/watch?v=cOn6u9kXvy0" %}
+Quelle Youtube Nero 3D - "Solving Gantry Racking"
+{% endembed %}
