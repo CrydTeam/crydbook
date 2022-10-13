@@ -13,7 +13,19 @@ Quelle: [Youtube Nero 3D - "Solving Gantry Racking"](https://www.youtube.com/wat
 ### 1. Aufheizen:
 
 Heize deinen Drucker über einen längeren Zeitraum (\~2h) über das Heizbett auf. Deaktiviere dabei den Exhaust Fan, sodass keine Luft rausgezogen wird.\
-_Wenn ein Nevermore vorhanden ist, kann dieser zur Luftumwälzung gerne eingesetzt werden_
+_Wenn ein Nevermore vorhanden ist, kann dieser zur Luftumwälzung gerne eingesetzt werden_\
+__\
+_Hierzu muss noch in der printer.cfg eine Änderung gemacht werden:_\
+__
+
+```
+[idle_timeout]
+timeout: 7200
+#   Idle time (in seconds) to wait before running the above G-Code
+#   commands. The default is 600 seconds. 7200 = 2h
+```
+
+
 
 __
 
