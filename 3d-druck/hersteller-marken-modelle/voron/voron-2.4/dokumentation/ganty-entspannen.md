@@ -8,7 +8,7 @@ coverY: 128.0286343612335
 
 ## Wie entspanne (deracke) ich die Gantry vom Voron 2.4
 
-Quelle: [Quelle Youtube Nero 3D - "Solving Gantry Racking"](https://www.youtube.com/watch?v=cOn6u9kXvy0)
+Quelle: [Youtube Nero 3D - "Solving Gantry Racking"](https://www.youtube.com/watch?v=cOn6u9kXvy0)
 
 ### 1. Aufheizen:
 
@@ -19,7 +19,7 @@ __
 
 ### _2. Riemen entspannen_
 
-Stelle den Druckkopf mittig und entspannte die X und Y Riemen über die dementsprechenden Spanner. GGF Sogar die Klemmung an der X-Gantry auf einer Seite lösen und die Riemen ein Stück ausziehen. Am allerbesten ist natürlich eine komplette Herausnahme der Riemen.\
+Stelle den Druckkopf mittig und entspannte die X und Y Riemen über die dementsprechenden Spanner. Ggf. sogar die Klemmung an der X-Gantry auf einer Seite lösen und die Riemen ein Stück ausziehen. Am allerbesten ist natürlich eine komplette Herausnahme der Riemen.\
 ![](../../../../../.gitbook/assets/riemen\_enstpannen.PNG)
 
 
