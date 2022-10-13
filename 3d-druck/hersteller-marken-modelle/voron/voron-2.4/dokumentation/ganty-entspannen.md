@@ -1,5 +1,7 @@
 ---
 description: Gantry DEracking am Voron V2.4
+cover: ../../../../../.gitbook/assets/voron_rob_2.4_1.jpg
+coverY: 0
 ---
 
 # Ganty Entspannen / Deracken
