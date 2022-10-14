@@ -13,6 +13,10 @@ ich benutze [dieses Modell](https://amzn.to/3RE9mQd)
 
 Totaler Verbrauch in W (aktueller Verbrauch für dynamische Anzeige im Dashboard)
 
+
+
+Die nachfolgenden Codes sind in der Template.yaml zu hinterlegen:
+
 ```
 - sensor:
     - name: "Total Power"
