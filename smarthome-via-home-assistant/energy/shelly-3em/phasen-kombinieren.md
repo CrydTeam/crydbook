@@ -15,7 +15,7 @@ Totaler Verbrauch in W (aktueller Verbrauch für dynamische Anzeige im Dashboard
 
 
 
-Die nachfolgenden Codes sind in der Template.yaml zu hinterlegen:
+<mark style="color:red;">Die nachfolgenden Codes sind in der Template.yaml zu hinterlegen:</mark>
 
 ```
 - sensor:
