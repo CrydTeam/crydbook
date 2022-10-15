@@ -55,6 +55,23 @@ port: 7126
 
 
 
+#### **4.   \[maschine] hinzufügen**
+
+```
+[machine]
+sudo_password: MEINPASSWORT1234
+```
+
+{% hint style="info" %}
+Komplette Sektion \[maschine] mit sudo Passwort hinzufpügen.\
+Dein Sudo Passwort ist das Passwort was du zum einloggen in den pi eingibst
+{% endhint %}
+
+
+
+## Angepasste moonraker.conf
+
+\
 Unsere angepasste moonraker.conf findet ihr wie immer auf dem Github.\
 
 
