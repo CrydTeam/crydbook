@@ -1,17 +1,17 @@
 # Moonraker Probleme nach Update
 
-Nach dem Moonraker Update zu Version _**v0.7.1-714-g3ad7d06**_ habt ihr folgende Fehler und seht eure Gcodes und Configs nicht mehr
+Nach dem Moonraker Update zu Version _**v0.7.1-714-g3ad7d06**_ habt ihr folgende Fehler und seht eure Gcodes und Configs wahrscheinlich nicht mehr.
 
 ![](../../.gitbook/assets/moonraker1.jpg)![](../../.gitbook/assets/moonraker2.jpg)![](../../.gitbook/assets/moonraker3.jpg)
 
 
 
-## _**Wie bearbeite ich jetzt die moonraker.conf?!**_
+## _**Wie kann ich jetzt die moonraker.conf bearbeiten?!**_
 
-_**1. FTP Client**_\
+_**1. Möglichkeit: FTP Client**_\
 _****-> Über FTP Client (Filezilla, WinSCP) home/pi/klipper\_config/moonraker.conf per Drag\&Drop auf den Pc und bearbeiten. Danach wieder per Drag\&Drop hochlanden_
 
-_**2. Putty**_
+_**2. Möglichkeit: Putty**_
 
 _`cd klipper_config` ; `nano moonraker.conf` ; STRG+X ; Y -> Enter_\
 __\
