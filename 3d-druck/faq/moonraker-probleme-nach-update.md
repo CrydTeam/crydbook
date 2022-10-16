@@ -79,7 +79,7 @@ Unsere angepasste moonraker.conf findet ihr wie immer auf dem Github.\
 Quelle moonraker.conf
 {% endembed %}
 
-## Hier findet ihr unser Video zu dem Moonraker update, als Beschreibung
+## Hier findet ihr unser Video zu dem Moonraker update
 
 {% embed url="https://www.youtube.com/watch?v=9Y8h4HfBd18" %}
 
