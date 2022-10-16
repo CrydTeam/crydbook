@@ -8,8 +8,8 @@ description: >-
 
 (Quelle) Danke an dieser Stelle an [china-gadgets.de](https://www.china-gadgets.de).
 
-|                                                                |                                                                                  |                                      |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------ |
-| [ABS (Filament)](3d-druck-lexikon/abs-filament.md)             | [Achsen](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/) | [Aceton](3d-druck-lexikon/aceton.md) |
-| [Additives Verfahren](3d-druck-lexikon/additives-verfahren.md) |                                                                                  |                                      |
-|                                                                |                                                                                  |                                      |
+|                                                                |                                                                                       |                                                          |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [ABS (Filament)](3d-druck-lexikon/abs-filament.md)             | [Achsen](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/)      | [Aceton](3d-druck-lexikon/aceton.md)                     |
+| [Additives Verfahren](3d-druck-lexikon/additives-verfahren.md) | [BAUD(-Rate)](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/) | [Bowden (Extruder)](3d-druck-lexikon/bowden-extruder.md) |
+|                                                                |                                                                                       |                                                          |
