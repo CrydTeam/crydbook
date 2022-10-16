@@ -6,7 +6,7 @@ coverY: 0
 
 # Enraged Rabbit MMU
 
-[Link zum Github Projekt](https://github.com/EtteGit/EnragedRabbitProject/tree/no\_toolhead\_sensor)
+[Link zum Github Projekt](https://github.com/EtteGit/EnragedRabbitProject)
 
 ### Was ist eine MMU
 
