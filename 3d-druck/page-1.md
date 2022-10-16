@@ -82,5 +82,28 @@ description: >-
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [Laser](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/)                | [Layerheight (Schichtstärke/Schichtdicke)](3d-druck-lexikon/layerheight-schichtstaerke-schichtdicke.md) | [Limonen](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/) |
 | [LOM (Laminated Object Manufacturing)](3d-druck-lexikon/lom-laminated-object-manufacturing.md) |                                                                                                         |                                                                                   |
-|                                                                                                |                                                                                                         |                                                                                   |
 
+## M
+
+|                                                              |                                      |   |
+| ------------------------------------------------------------ | ------------------------------------ | - |
+| [Mehrfarbiger Druck](3d-druck-lexikon/mehrfarbiger-druck.md) | [Metall](3d-druck-lexikon/metall.md) |   |
+
+## N
+
+|                                  |                                      |                                    |
+| -------------------------------- | ------------------------------------ | ---------------------------------- |
+| [NEMA](3d-druck-lexikon/nema.md) | [Nozzle](3d-druck-lexikon/nozzle.md) | [Nylon](3d-druck-lexikon/nylon.md) |
+
+## O
+
+|                                                |                                                |   |
+| ---------------------------------------------- | ---------------------------------------------- | - |
+| [OBJ-Dateien](3d-druck-lexikon/obj-dateien.md) | [Open Source](3d-druck-lexikon/open-source.md) |   |
+
+## P
+
+|                                                    |                                                  |                                                                    |
+| -------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------ |
+| [PLA(-Filament)](3d-druck-lexikon/pla-filament.md) | [Photopolymer](3d-druck-lexikon/photopolymer.md) | [PVA (Polyvinylalkohol)](3d-druck-lexikon/pva-polyvinylalkohol.md) |
+|                                                    |                                                  |                                                                    |
