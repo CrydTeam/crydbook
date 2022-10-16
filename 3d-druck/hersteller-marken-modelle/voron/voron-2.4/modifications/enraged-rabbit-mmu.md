@@ -10,6 +10,8 @@ coverY: 0
 
 ### Was ist eine MMU
 
+M= Multi M=Material U=Unit\
+\
 Diese Modifikation erlaubt es verschiedene Filamente automatisch wechseln zu lassen.\
 
 
