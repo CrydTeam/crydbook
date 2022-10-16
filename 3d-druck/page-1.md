@@ -10,14 +10,10 @@ description: >-
 
 ## A
 
-|                                                                                                |                                                                                                         |                                                                                   |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [ABS (Filament)](3d-druck-lexikon/abs-filament.md)                                             | [Achsen](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/)                        | [Aceton](3d-druck-lexikon/aceton.md)                                              |
-| [Additives Verfahren](3d-druck-lexikon/additives-verfahren.md)                                 |                                                                                                         |                                                                                   |
-|                                                                                                |                                                                                                         |                                                                                   |
-|                                                                                                |                                                                                                         |                                                                                   |
-| [Laser](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/)                | [Layerheight (Schichtstärke/Schichtdicke)](3d-druck-lexikon/layerheight-schichtstaerke-schichtdicke.md) | [Limonen](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/) |
-| [LOM (Laminated Object Manufacturing)](3d-druck-lexikon/lom-laminated-object-manufacturing.md) |                                                                                                         |                                                                                   |
+|                                                                |                                                                                  |                                      |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------ |
+| [ABS (Filament)](3d-druck-lexikon/abs-filament.md)             | [Achsen](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/) | [Aceton](3d-druck-lexikon/aceton.md) |
+| [Additives Verfahren](3d-druck-lexikon/additives-verfahren.md) |                                                                                  |                                      |
 
 ## B
 
@@ -67,4 +63,24 @@ description: >-
 |                                      |   |   |
 | ------------------------------------ | - | - |
 | [Infill](3d-druck-lexikon/infill.md) |   |   |
+
+## J
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+
+## K
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+
+## L
+
+|                                                                                                |                                                                                                         |                                                                                   |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Laser](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/)                | [Layerheight (Schichtstärke/Schichtdicke)](3d-druck-lexikon/layerheight-schichtstaerke-schichtdicke.md) | [Limonen](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/) |
+| [LOM (Laminated Object Manufacturing)](3d-druck-lexikon/lom-laminated-object-manufacturing.md) |                                                                                                         |                                                                                   |
+|                                                                                                |                                                                                                         |                                                                                   |
 
