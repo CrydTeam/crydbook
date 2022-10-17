@@ -147,9 +147,9 @@ description: >-
 
 ## W
 
-|                                                                                       |   |   |
-| ------------------------------------------------------------------------------------- | - | - |
-| [Warp-Effekt](https://app.gitbook.com/o/knKgiS29xlZlTBHFJ3Jg/s/v3pPxILVKjgOIWX5yN8Q/) |   |   |
+|                                                |   |   |
+| ---------------------------------------------- | - | - |
+| [Warp-Effekt](3d-druck-lexikon/warp-effekt.md) |   |   |
 
 ## X
 
