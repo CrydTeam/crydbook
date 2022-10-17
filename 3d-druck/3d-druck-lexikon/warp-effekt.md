@@ -4,4 +4,8 @@ Der Warp-Effekt bzw. Warping entsteht durch **unterschiedliche Spannungen im Inn
 
 Der Warp-Effekt tritt **besonders häufig bei ABS- und HIPS-Filamenten** auf. Einige Maßnahmen zur Vermeidung sind ein Heizbett (mit entsprechend hohen Temperaturen bei z.B. ABS oder HIPS), die Reduzierung des Infills oder das Beschichten des Heizbetts mit einer haftenden Substanz.
 
-Die richtige **Temperaturdifferenz zwischen Hotend und Hotbed**, das richtige Leveln und der richtige Untergrund sind zudem wichtig. Je rauer (z.B. Kreppband) das Hotbed ist, desto besser haftet das Objekt. Druckst du auf Glas, kann z.B. Haftspray helfen. Eine weitere Möglichkeit ist, ausreichend viel Brim zu verwenden, um die Haftung zu erhöhen.
+Die richtige **Temperaturdifferenz zwischen Hotend und Hotbed**, das richtige Leveln und der richtige Untergrund sind zudem wichtig. Je rauer (z.B. Kreppband) das Hotbed ist, desto besser haftet das Objekt. Druckst du auf Glas, kann z.B. Haftspray helfen. Eine weitere Möglichkeit ist, ausreichend viel Brim zu verwenden, um die Haftung zu erhöhen.\
+\
+Wenn ihr Warping haben solltet, lest euch doch mal diese Guides durch:\
+[3D Jake Warping](https://www.3djake.de/info/ratgeber/warping-verhindern-das-kannst-du-tun)\
+[ALL3DP Warping](https://all3dp.com/de/2/warping-3d-druck-materialverzug-pla-abs-petg/)
