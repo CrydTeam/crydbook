@@ -2,11 +2,11 @@
 
 Beim sog. Slicen wird ein digitales 3D-Modell einzelne horizontalen Schichten zerlegt bzw. „geschnitten“. Je nach Druckerkonfiguration erstellt die Slicer-Software die einzelnen Schichten („Layer“) und druckt diese mit der gewünschten Geschwindigkeit. Diese einzelnen Schichten werden als Maschinencode GCODE von der Slicer-Software gespeichert und werden anschließend vom 3D-Drucker eingelesen. Die z.Z. **beliebtesten Slicer-Programme** sind:
 
-* [Cura](https://www.china-gadgets.de/goto/deal/4232/) (wird oft auf den microSD-Karten bei China 3D Druckern beigelegt – von Ultimaker)
+* [Cura ](https://ultimaker.com/software/ultimaker-cura)(wird oft auf den microSD-Karten bei China 3D Druckern beigelegt – von Ultimaker)
 * [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer\_424/)
 * [SuperSlicer](https://github.com/supermerill/SuperSlicer/releases)
-* [Simplify3D](https://www.china-gadgets.de/goto/deal/4234/)
-* [Slic3r](https://www.china-gadgets.de/goto/deal/4226/)
+* [Simplify3D](https://www.simplify3d.com/)
+* [Slic3r](https://slic3r.org/)
 
 
 
