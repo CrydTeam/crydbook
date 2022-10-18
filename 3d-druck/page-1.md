@@ -32,6 +32,7 @@ description: >-
 |                                |                                                    |                                                                  |
 | ------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------- |
 | [DIY](3d-druck-lexikon/diy.md) | [Dual-Extruder](3d-druck-lexikon/dual-extruder.md) | [Druckgeschwindigkeit](3d-druck-lexikon/druckgeschwindigkeit.md) |
+| Direct (Extruder)              |                                                    |                                                                  |
 
 ## E
 

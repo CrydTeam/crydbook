@@ -92,6 +92,7 @@
     * [CAD](3d-druck/3d-druck-lexikon/cad.md)
     * [COM (Port)](3d-druck/3d-druck-lexikon/com-port.md)
     * [CURA](3d-druck/3d-druck-lexikon/cura.md)
+    * [Direct (Extruder)](3d-druck/3d-druck-lexikon/direct-extruder.md)
     * [DIY](3d-druck/3d-druck-lexikon/diy.md)
     * [Dual-Extruder](3d-druck/3d-druck-lexikon/dual-extruder.md)
     * [Druckgeschwindigkeit](3d-druck/3d-druck-lexikon/druckgeschwindigkeit.md)
