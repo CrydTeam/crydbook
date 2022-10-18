@@ -167,6 +167,7 @@
     * [Deutsch Übersetzung Klipper Dokumentation](3d-druck/faq/deutsch-uebersetzung-klipper-dokumentation.md)
     * [Moonraker Probleme nach Update](3d-druck/faq/moonraker-probleme-nach-update.md)
   * [STL Datenbank](3d-druck/stl-datenbank/README.md)
+    * [Vyper LED Bar Holder](3d-druck/stl-datenbank/vyper-led-bar-holder.md)
     * [Vyper V3 Chainkit](3d-druck/stl-datenbank/vyper-v3-chainkit.md)
   * [Ersatzteile, Werkzeuge und Zubehör](3d-druck/ersatzteile-werkzeuge-und-zubehoer.md)
   * [Support Links](3d-druck/support-links/README.md)
