@@ -1,6 +1,6 @@
 # PV
 
-![](<../../../../../.gitbook/assets/image (1).png>)
+![](<../../../../../.gitbook/assets/image (1) (4).png>)
 
 ```
 type: custom:mini-graph-card
