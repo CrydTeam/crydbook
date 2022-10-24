@@ -1,6 +1,6 @@
 # Z-Offset richtig einstellen
 
-Ihr habe den PROBE\_CALIBRATE durchgeführt und nach dem ACCEPT mit einem klicken auf SAVE\_CONFIG eure Config gespeichert ?&#x20;
+Ihr habt den PROBE\_CALIBRATE durchgeführt und nach dem ACCEPT mit einem klicken auf SAVE\_CONFIG eure Config gespeichert ?&#x20;
 
 Sehr gut ... doch wie geht es nun weiter ?
 
