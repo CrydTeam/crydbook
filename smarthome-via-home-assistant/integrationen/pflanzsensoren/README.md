@@ -6,6 +6,6 @@ coverY: -938.7980910425844
 
 # Pflanzsensoren
 
-![](<../../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 {% embed url="https://www.youtube.com/watch?v=FvqQG4ZbYz0" %}
