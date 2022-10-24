@@ -33,8 +33,10 @@ Beginnt nun mit dem Drucken und stellt den Offset Live über Mainsail ein. Dies 
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-* Habt ihr eure seitlichen Endstops noch in Benutzung, wählt Ihr nun Speichern bis Endschalter aus.
-* Habt Ihr die Variante mit einem BL-Touch und die seitlichen Endstops sind deaktiviert, wählt ihr nun Speichern bis Sensor aus.
+* Habt ihr eure seitlichen Endstops noch in Benutzung, wählt Ihr nun Speichern bis Endschalter aus. \
+  (In der Printer.cfg wie folgt "endstop\_pin: PG10 ---> Hardware Endstop")
+* Habt Ihr die Variante mit einem BL-Touch und die seitlichen Endstops sind deaktiviert, wählt ihr nun Speichern bis Sensor aus. \
+  (In der Printer.cfg wie folgt "endstop\_pin: probe:z\_virtual\_endstop ---> Bltouch")
 
 Wenn Ihr nun soweit seid, dass Ihr die für euch beste Einstellung gefunden habt, ist es sehr wichtig, dass Ihr die Config erneut abspeichert.
 
