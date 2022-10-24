@@ -32,7 +32,7 @@ show:
 type: energy-solar-graph
 ```
 
-![](<../../../../../.gitbook/assets/image (2).png>)
+![](<../../../../../.gitbook/assets/image (2) (5).png>)
 
 ```
 type: custom:sun-card
