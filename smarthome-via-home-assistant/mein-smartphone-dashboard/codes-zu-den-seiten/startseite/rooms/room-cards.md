@@ -4,7 +4,7 @@ description: wir verwenden hier eine Mushroom Template Card
 
 # Room Cards
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Icon Farbe basierend auf Gruppenstatus (alle Lichter und Geräte als Helfer kombiniert)

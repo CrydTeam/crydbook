@@ -14,7 +14,7 @@ Als erstes erstellt Ihr euch im SuperSlicer eine Datei, die die Höhe eurer erst
 
 Nun müsst Ihr die Höhe eurer ersten Schicht aus dem Slicer ermitteln.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Druckeinstellungen -> Slice -> Höhe der ersten Schicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Druckeinstellungen -> Slice -> Höhe der ersten Schicht</p></figcaption></figure>
 
 Die folgenden Einstellungen müssen nun noch im Slicer vorgenommen werden, damit Ihr die richtigen Maße für die Form habt.
 
@@ -27,14 +27,14 @@ Nun kann die Datei gesliced und an den Drucker geschickt werden.
 
 Beginnt nun mit dem Drucken und stellt den Offset Live über Mainsail ein. Dies geschieht über diese Toolbar&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>Toolbar Z-Versatz</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>Toolbar Z-Versatz</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Beispiel veränderter Z-Versatz</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Habt ihr eure seitlichen Endstops noch in Benutzung, wählt Ihr nun Speichern bis Endschalter aus.
-* Habt Ihr die Variante mit einem BL-Touch, wählt ihr nun Speichern bis Sensor aus.
+* Habt Ihr die Variante mit einem BL-Touch und die seitlichen Endstops sind deaktiviert, wählt ihr nun Speichern bis Sensor aus.
 
 Wenn Ihr nun soweit seid, dass Ihr die für euch beste Einstellung gefunden habt, ist es sehr wichtig, dass Ihr die Config erneut abspeichert.
 
