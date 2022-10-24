@@ -23,7 +23,7 @@ Die folgenden Einstellungen müssen nun noch im Slicer vorgenommen werden, damit
 
 <figure><img src="../../.gitbook/assets/image (11) (3).png" alt=""><figcaption><p>Abmaße der Form einstellen</p></figcaption></figure>
 
-Nun kann die Datei geslicet und an den Drucker geschickt werden.
+Nun kann die Datei gesliced und an den Drucker geschickt werden.
 
 Beginnt nun mit dem Drucken und stellt den Offset Live über Mainsail ein. Dies geschieht über diese Toolbar&#x20;
 
@@ -35,4 +35,4 @@ Wenn Ihr nun soweit seid, dass Ihr die für euch beste Einstellung gefunden habt
 
 Geht dafür einfach über den Save Config Button oben rechts neben dem NOTAUS, oder schreibt SAVE\_CONFIG in die Konsole und bestätigt mit Enter.
 
-Die Firmware sollte nun einmal Neustarten.
+Die Firmware macht nun einen Neustart.
