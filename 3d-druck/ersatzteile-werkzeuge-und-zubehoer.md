@@ -70,6 +70,7 @@ coverY: -1268.7224669603524
 * [Messschieber Low Budget](https://amzn.to/3SC4ITv)
 * [Messschieber Premium](https://amzn.to/3fmNvPD)
 * [Raspberry PI Jumperkabel (Dupont)](https://amzn.to/3LJHqsv)
+* [Rauchmelder mit App-Funktion](https://amzn.to/3zzAvNv) (aus dem Livestream vom 01.11.2022)
 
 </details>
 

@@ -8,12 +8,7 @@ Habt Ihr Probleme bei der Einrichtung oder Benutzung euer Neopixel. Dann zeigen 
 
 Folgende Konfiguration müsst ihr in eure printer.cfg inkludieren oder direkt einfügen.\
 \
-[Link zur Config](https://github.com/cryd-s/Vyper\_extended/blob/main/GCODES/neopixel/neopixel\_pin.cfg)\
-\
-In der Printer.cfg : \
-`[include ./neopixel_pin.cfg]`
-
-_Benutzt den Namen der CFG, den ihr hinterlegt habt_
+[Link zur Config](https://github.com/cryd-s/Vyper\_extended/blob/main/GCODES/neopixel/neopixel\_pin.cfg)
 
 ### Pin (Schnittstelle) definieren:
 
@@ -69,16 +64,11 @@ Mit diesen Werten könnt ihr die Farbe nach dem Boot festlegen. Setzt dafür ein
 
 In dem oben genannten Beispielt wird die LED 1 mit der Farbe Gelb angesteuert (Rot + Grün)\
 \
-Hier sind einige Farbbeispiele in einer Konfig. hinterlegt. ([Neopixel - Farben](https://github.com/cryd-s/Vyper\_extended/blob/main/GCODES/neopixel/neopixel\_farben.cfg))\
-`[include ./neopixel_farben.cfg]`
-
-_Benutzt den Namen der CFG, den ihr hinterlegt habt_
+Hier sind einige Farbbeispiele in einer Konfig. hinterlegt. ([Neopixel - Farben](https://github.com/cryd-s/Vyper\_extended/blob/main/GCODES/neopixel/neopixel\_farben.cfg))
 
 ### Statusmeldungen im Gcode
 
 Link zur [Statusmeldung-Konfiguration](https://github.com/cryd-s/Vyper\_extended/blob/main/GCODES/neopixel/neopixel\_status.cfg)
-
-`[include ./neopixel_status.cfg]`
 
 Hier könnt ihr folgende Meldungen einfach in einen Gcode eurer Wahl einbinden.\
 
