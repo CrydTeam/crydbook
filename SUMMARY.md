@@ -175,6 +175,7 @@
     * [Deutsch Übersetzung Klipper Dokumentation](3d-druck/faq/deutsch-uebersetzung-klipper-dokumentation.md)
     * [Moonraker Probleme nach Update](3d-druck/faq/moonraker-probleme-nach-update.md)
     * [Z-Offset richtig einstellen](3d-druck/faq/z-offset-richtig-einstellen.md)
+    * [Neopixel Einrichten und Nutzen](3d-druck/faq/neopixel-einrichten-und-nutzen.md)
   * [STL Datenbank](3d-druck/stl-datenbank/README.md)
     * [Vyper LED Bar Holder](3d-druck/stl-datenbank/vyper-led-bar-holder.md)
     * [Vyper V3 Chainkit](3d-druck/stl-datenbank/vyper-v3-chainkit.md)
