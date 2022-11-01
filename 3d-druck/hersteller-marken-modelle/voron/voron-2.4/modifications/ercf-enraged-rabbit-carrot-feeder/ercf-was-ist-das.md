@@ -38,5 +38,8 @@ Habt ihr dennoch Fragen, schaut doch gerne auf dem [Discord](https://discord.gg/
 
 
 
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\
+_\* Wir übernehmen keine Haftung für die von uns bereitgestellten externen Links_
+
 
 
