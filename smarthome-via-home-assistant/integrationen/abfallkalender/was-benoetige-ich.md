@@ -11,3 +11,4 @@ Was benötige ich alles aus HACS?
    2. Banner Card
    3. Card Mod
    4. Layout Card
+   5. Multiple Entity Row Card
