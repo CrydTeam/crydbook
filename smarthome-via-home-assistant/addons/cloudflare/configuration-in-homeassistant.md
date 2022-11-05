@@ -1,0 +1,8 @@
+# Configuration in Homeassistant
+
+```
+http:
+  use_x_forwarded_for: true
+  trusted_proxies:
+    - 172.30.33.0/24
+```
