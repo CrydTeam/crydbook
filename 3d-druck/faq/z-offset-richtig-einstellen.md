@@ -10,7 +10,7 @@ Nun ist es daran, euren Z-Offset Live "On the Fly" fein zu tunen, mit den sogena
 
 Als erstes erstellt Ihr euch im SuperSlicer eine Datei, die die Höhe eurer ersten Schicht hat. Dafür geht Ihr mit Rechtsklick auf die Baufläche im SuperSlicer und fügt eine Form (Box) hinzu.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Rechtsklick auf die Baufläche </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Rechtsklick auf die Baufläche </p></figcaption></figure>
 
 Nun müsst Ihr die Höhe eurer ersten Schicht aus dem Slicer ermitteln.
 
@@ -31,7 +31,7 @@ Beginnt nun mit dem Drucken und stellt den Offset Live über Mainsail ein. Dies 
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Beispiel veränderter Z-Versatz</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 * Habt ihr eure seitlichen Endstops noch in Benutzung, wählt Ihr nun Speichern bis Endschalter aus. \
   (In der Printer.cfg wie folgt "endstop\_pin: PG10 ---> Hardware Endstop")

@@ -36,5 +36,5 @@ Hiermit könnt ihr aus "on" ein einfaches "An" bzw. "Aus" generieren (z.B. on = 
 {% endraw %}
 ```
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
