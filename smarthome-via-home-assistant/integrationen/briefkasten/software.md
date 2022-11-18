@@ -55,9 +55,23 @@ action:
             type: announce
           message: Die Post ist da!
     else:
-      - service: notify.notify
+      - service: notify.all_devices
         data:
           message: Post ist da!
+          title: Briefkasten
 mode: single
 
+
+```
+
+{% hint style="info" %}
+die Handybenachrichtigung geht nur mit der folgenden Notify Gruppe:
+{% endhint %}
+
+```
+- name: ALL_DEVICES
+  platform: group
+  services:
+    - service: mobile_app_iphone_manuel_fichtner
+    - service: mobile_app_iphone_selina
 ```
