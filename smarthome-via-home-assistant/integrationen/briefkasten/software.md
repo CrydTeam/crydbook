@@ -2,6 +2,8 @@
 
 Der Button zum anzeigen bzw. löschen der Briefkastenmeldung:
 
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ```
 type: custom:mushroom-entity-card
 entity: input_boolean.post
