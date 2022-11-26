@@ -26,7 +26,7 @@ show:
 
 ```
 
-![](<../../../../../.gitbook/assets/image (1) (3) (2).png>)
+![](<../../../../../.gitbook/assets/image (1) (3).png>)
 
 ```
 type: energy-solar-graph
