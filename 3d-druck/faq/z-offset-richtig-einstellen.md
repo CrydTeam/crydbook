@@ -10,7 +10,7 @@ Nun ist es daran, euren Z-Offset Live "On the Fly" fein zu tunen, mit den sogena
 
 Als erstes erstellt Ihr euch im SuperSlicer eine Datei, die die Höhe eurer ersten Schicht hat. Dafür geht Ihr mit Rechtsklick auf die Baufläche im SuperSlicer und fügt eine Form (Box) hinzu.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Rechtsklick auf die Baufläche </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Rechtsklick auf die Baufläche </p></figcaption></figure>
 
 Nun müsst Ihr die Höhe eurer ersten Schicht aus dem Slicer ermitteln.
 

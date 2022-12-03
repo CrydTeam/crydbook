@@ -8,7 +8,7 @@ Das lässt sich sehr einfach und schnell per Script erledigen - einfach folgende
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-install.sh)"
 ```
 
-<figure><img src="../../../.gitbook/assets/image (9) (5).png" alt=""><figcaption><p>diese Ansicht sollte erscheinen - hier bitte alles mit y bestätigen (Beta habe ich bei mir deaktiviert)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (5) (1).png" alt=""><figcaption><p>diese Ansicht sollte erscheinen - hier bitte alles mit y bestätigen (Beta habe ich bei mir deaktiviert)</p></figcaption></figure>
 
 Sollte hier nichts erscheinen prüft bitte eure Internetverbindung (bei mir hat es nicht geklappt da der DNS am Prox nicht richtig war)
 

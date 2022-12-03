@@ -52,7 +52,8 @@ gcode:
     {% if printer.gcode_move.absolute_coordinates|lower == 'false' %} G91 {% endif %}
   {% else %}
     {action_respond_info("Printer not homed")}
-  {% endif %}</code></pre>
+  {% endif %}
+</code></pre>
 
 <figure><img src="../../../.gitbook/assets/cancle_print.jpg" alt=""><figcaption><p>Cancle Print Activation</p></figcaption></figure>
 

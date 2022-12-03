@@ -2,7 +2,7 @@
 
 Der Button zum anzeigen bzw. löschen der Briefkastenmeldung:
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (5).png" alt=""><figcaption></figcaption></figure>
 
 ```
 type: custom:mushroom-entity-card

@@ -2,7 +2,7 @@
 
 Sollte bei der Installation folgender Fehler auftreten müsst ihr im Bios die Virtualisierung aktivieren.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 Sollte bei euch die Installation im Startbildschirm nach 20 Minuten nicht weiter gehen klickt auf den pulsierenden Punkt.
 
