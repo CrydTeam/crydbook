@@ -14,8 +14,8 @@ Den nachfolgenden Code musst du nun in deinen Sketch packen:
 #include "esp_http_server.h"
 
 //Replace with your network credentials
-const char* ssid = "Manu";
-const char* password = "manu2811";
+const char* ssid = "WLAN NAME";
+const char* password = "WLAN PASSWORT";
 
 #define PART_BOUNDARY "123456789000000000000987654321"
 
