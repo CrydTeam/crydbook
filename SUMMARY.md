@@ -239,6 +239,7 @@
       * [Verkabelung](smarthome-via-home-assistant/integrationen/esp-cam/verkabelung.md)
       * [Flashing](smarthome-via-home-assistant/integrationen/esp-cam/flashing.md)
       * [Einbinden in Homeassistant](smarthome-via-home-assistant/integrationen/esp-cam/einbinden-in-homeassistant.md)
+      * [Alternative ESP Home](smarthome-via-home-assistant/integrationen/esp-cam/alternative-esp-home.md)
   * [Energy](smarthome-via-home-assistant/energy/README.md)
     * [Shelly 3em](smarthome-via-home-assistant/energy/shelly-3em/README.md)
       * [Phasen kombinieren](smarthome-via-home-assistant/energy/shelly-3em/phasen-kombinieren.md)
