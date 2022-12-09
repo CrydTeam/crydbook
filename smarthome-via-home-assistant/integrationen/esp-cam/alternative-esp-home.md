@@ -58,4 +58,5 @@ light:
   - platform: binary
     output: gpio_4
     name: cam-1-flashlight
+
 ```
