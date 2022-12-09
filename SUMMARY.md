@@ -247,6 +247,7 @@
       * [Dachmontage](smarthome-via-home-assistant/energy/balkonkraftwerk/dachmontage/README.md)
         * [Video](smarthome-via-home-assistant/energy/balkonkraftwerk/dachmontage/video.md)
         * [Bilder](smarthome-via-home-assistant/energy/balkonkraftwerk/dachmontage/bilder.md)
+    * [Dummy Sensor](smarthome-via-home-assistant/energy/dummy-sensor.md)
   * [Dashboard Design](smarthome-via-home-assistant/dashboard-design/README.md)
     * [Beispiele](smarthome-via-home-assistant/dashboard-design/beispiele/README.md)
       * [Home Dashboards](smarthome-via-home-assistant/dashboard-design/beispiele/home-dashboards.md)
